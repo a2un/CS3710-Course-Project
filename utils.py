@@ -8,12 +8,12 @@ nltk.download('punkt')
 
 def read_file(file_path):
     """
-    Read function for AG NEWS Dataset
+    Read function for Webis-16 Debate Dataset
     """
-    data = pd.read_csv(file_path, names=["class", "title", "description"])
-    texts = list(data['title'].values + ' ' + data['description'].values)
+    data = pd.read_csv(file_path)
+    texts = list(data['text'].values )
     texts = [word_tokenize(preprocess_text(sentence)) for sentence in texts]
-    labels = [label-1 for label in list(data['class'].values)]  # label : 1~4  -> label : 0~3
+    labels = [label for label in list(data['class'].values)]  # label : 1~4  -> label : 0~3
     return texts, labels
 
 
