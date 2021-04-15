@@ -1,0 +1,30 @@
+Non-Argumentative	digital rights management (drm) is a kind of technology, normally software-based, that is used to prevent unauthorised copying of digital media, usually by restricting the context in which that media can be used.
+Non-Argumentative	 for example, only allowing music to be played on one particular portable player.
+Non-Argumentative	drm is most often used to protect music, films, and computer software.
+Non-Argumentative	 some examples of drm usage are music purchased from apple’s itunes store (which are linked to an itunes account), films on dvds (which are scrambled), and the online activation found in microsoft’s windows operating system (copies of the software must be activated).
+Non-Argumentative	since drm is used to protect digital media, often purchased over the internet, it is common in many countries.
+Non-Argumentative	  us and eu legislation enforces the provisions of theworld intellectual property organisation (wipo) copyright treaty.
+Non-Argumentative	 both the us digital millennium copyright act (dmca)(1998) and the eu copyright directive (2001) protect drm technologies in addition to making simple piracy illegal by prohibiting technologies which circumvent drm protection.
+Non-Argumentative	some people believe that drm is not the most effective way protect digital media.
+Argumentative	 this discussion covers arguments for and against drm usage in at least some instances.
+Argumentative	drm has a ` chilling effect ' on genuine technological research , preventing legitimate reverse-engineering of technologies for research purposes , particularly in university departments which do n't get funding for this because of the potential legal issues .
+Argumentative	 in the usa the dmca has also been cited as chilling to legitimate users , such as students of cryptanalysis , including , in a well-known instance , professor felten and students at princeton , and security consultants such as niels ferguson , who has declined to publish information about vulnerabilities he discovered in an intel secure-computing scheme because of his concern about being arrested under the dmca when he travels to the us .
+Argumentative	 it is generally accepted in most legal jurisdictions that copying media for the use of others is a form of stealing and should remain illegal .
+Argumentative	 however , this should be enforced by targeting pirates who produce large quantities of copied media in bulk , rather than targeting innocent or low-impact home users sharing songs with a friend or transferring a song from a cd to an mp3 player for listening on the move .
+Argumentative	 such home users make little difference to the viability of the media or software industries , but the actions of pirates impact upon their ability to make profits from the intellectual property they own .
+Argumentative	 a good example of this is the drm on the blu-ray edition of the film avatar which rendered the discs unplayable on many blu-ray players .
+Argumentative	 drm is n't effective against piracy and so we should see it as an anti-competitive practice and trade barrier which makes life worse for consumers and does n't bring benefits to artists or the music industry in the long run .
+Argumentative	 drm technology should be considered an infringement on types of legitimate ` fair use ' consumer use , harming rights for consumers which are protected under the world intellectual property organisation copyright treaty ,.
+Argumentative	 drm aims to make it impossible to create compilations of songs & videos that you already own .
+Argumentative	 microsoft zune 's limited sharing technology prevents unlimited streaming between two devices owned by the same individual .
+Argumentative	 activation schemes frequently incorrectly tell users that they are using pirated products when reinstallation is attempted after a crash , for instance the windows ` genuine advantage ' scheme .
+Argumentative	 further , drm makes it very difficult for firms who operate thousands of computers to install multiple copies , volume licenses often do away with drm , resulting in a huge economic cost to them in terms of having to install on every system separately .
+Argumentative	 evidence of an acknowledgement of this counter-productivity came when emi stopped releasing audio cds with drm in januarybecause of the sheer number of cd players they were incompatible with .
+Argumentative	 they themselves admitted that `` the costs of drm do not measure up to the results '' .
+Argumentative	 continued reliance on drm inhibits the industry shift towards new models of content management for the future .
+Argumentative	 the media industry needs to preserve its revenue by moving in at least some ways in the direction of the creative commons agreement .
+Argumentative	 drm goes in exactly the opposite direction .
+Argumentative	 it hurts the firms because it gives consumers a negative experience and places the burden on them to prove that they are n't pirating , but does n't even stop those who actually pirate .
+Argumentative	 viacom 's $ 1bn lawsuit against google for their youtube subsidiary could have acted to inhibit the growth of the web-video industry , preventing transition to a sustainable , per view ?
+Argumentative	 , model of revenue sharing .
+Argumentative	 youtube won the lawsuit , but a pay-per-view is not yet being used .

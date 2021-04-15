@@ -1,0 +1,46 @@
+Non-Argumentative	3d printing is a revolutionary method of manufacturing.
+Non-Argumentative	 it is an additive process, meaning that it builds layer over layer of material in any shape using a laser, and does not waste as much material as cutting or drilling larger blocks into the desired shape (subtractive manufacturing).
+Non-Argumentative	 recently, they have begun to become accessible to households, and the price has dropped from several thousands to several hundreds of dollars.1 however, the industry is still massively underdeveloped.
+Non-Argumentative	 while 3d printers have been known to produce truly ground-breaking things, such as food or human organs2, these are the exceptions.
+Non-Argumentative	 3d printing still faces many limitations: it is slow, materials can be very expensive, machines are highly specific so you need different ones for different purposes, and they mainly produce brittle products with a rough surface.3nonetheless, the industry is developing tremendously fast, and the possibilities, both positive and negative, seem endless.
+Non-Argumentative	 a particularly loaded question is that of the domestic use of 3d printers.
+Non-Argumentative	 on one hand, they may eventually provide people with cheap access to endless necessities from home and allow individuals to produce anything they like enabling them to compete with large corporations.
+Non-Argumentative	 on the other, very shortly after 3d printers became a known concept, people began spreading blueprints of plastic printable guns on the internet.
+Non-Argumentative	 this allowed anybody with a 3d printer to produce their own weapons without any skill or great effort.4 as printers develop, producing guns, drugs or any dangerous product will be inexpensive and impossible to regulate.
+Argumentative	 such a new type of technology seems to call for drastically adapting existing regulations: but is it sufficient to justify a ban on 3d printers in households while this is still possible?
+Argumentative	while 3d printing may revolutionise professional manufacturing and lead to less waste , in the household it promotes mindless consumerism .
+Argumentative	 by producing anything desired cheaply and more accessibly , without even having to leave your house , they encourage people consume much more than they otherwise would .
+Argumentative	 this happens because individual consumers tend not to be concerned about the sustainability implications of every purchase : they will do so even less when 3d printers allow instant gratification .
+Argumentative	 on one hand , it can make people more dependent on material possessions , which makes it harder for them to attain more sustainable forms of happiness .
+Argumentative	 additionally , this eventually leads to more waste and overproduction , reversing all the potential benefits of industrial 3d printing .
+Argumentative	 as the technology develops , it seems likely that guns like the one created by defense distributed will continue to appear , becoming cheaper , more functional and more accessible .
+Argumentative	 while the us succeeded in promptly removing the blueprints , removing blueprints from the internet will quickly prove impossible as the phenomenon inevitably becomes more widespread .5 this is dangerous for all the same reasons that we do not allow people to produce their own weapons : we can not ensure criminals or mentally ill people do not gain access to them , and we can not track them after they have been used to commit a crime .
+Argumentative	 furthermore , they can be made of plastic , thus making them essentially undetectable to most security scans .
+Argumentative	 when weapons become so easily accessible , crimes become easier for terrorists or criminals to commit , and thus more crimes take place .
+Argumentative	 by banning printers before blueprints spread , we could avoid disasters such as thebombings in madrid , in which the bombs were produced from instructions on the internet6 .
+Argumentative	 similarly , the production of drugs and other illegal substances becomes impossible to regulate when anybody can produce anything in their own homes from plans on the internet .
+Argumentative	 restricting the spread of blueprints online is impossible , so the physical means of production must be regulated before they become irreversibly accessible .
+Argumentative	 banning household 3d printers , therefore , is a necessary step to uphold the rules we find important to our safety .
+Argumentative	 the great appeal of 3d printers is that they make consuming more efficient than normal methods : however , normal methods are inefficient in part because they undergo important checks and balances .
+Argumentative	 without proper regulations , standards are quickly dropped to save money and the health of thousands of consumers is put at risk .
+Argumentative	 such is the case in china , where consumer protection regulations are inefficient .7 through 3d printing this becomes a global problem .
+Argumentative	 any company , real or fake , can sell products online without them having been approved .
+Argumentative	 this means that people may buy dangerous products from unidentifiable , and thus legally unaccountable , companies .
+Argumentative	 shifting the burden of ensuring safety standards away from companies and onto consumers , who have significantly less information , is a threat to consumers ' health and safety .
+Argumentative	 all nations to develop economically depend on the importation of capital .
+Argumentative	 in most cases , this takes the shape of labour-intense manufacturing .
+Argumentative	 in fact , scarcely any countries have developed without transitioning through having a large manufacturing sector .8 it takes time for these countries to develop the capital and infrastructure to enter higher barrier to entry markets , such as the service sector .
+Argumentative	 transitioning without of manufacturing is therefore not an option for the majority of developing nations , and the exceptions that have succeeded in creating economic growth without large scale manufacturing , such as india and sri lanka , relied on spectacular luck .9 as a result , many developing nations depend on exporting cheap products to the developed world , where consumption is the highest .
+Argumentative	 if demand for the goods they produce is satisfied in the developed world , such countries will be unable to export .
+Argumentative	 because of the labour intensiveness of the manufacturing this will affect a large number of people .
+Argumentative	 short term drops in growth are particularly harmful in the developing world , where social security is too underdeveloped to cushion their effect .
+Argumentative	 people who work long hours for minimal wages do so because unemployment is not an option .
+Argumentative	 were these factories to have to close suddenly , the social consequences would be devastating .
+Argumentative	 3d printers provoke this to happen by satisfying all demand for cheap products .
+Argumentative	 when individuals in western liberal democracies can get access to cheaper products from their own home , developing nations will be unable to compete , and their exports fall substantially .
+Argumentative	 3d printers should remain at the industry level , where companies are more likely to rationally prefer importing cheap products over the extra costs of using 3d printers , such as electricity , and are likely to continue trade with the third world .
+Argumentative	 intellectual property law is split into copyright , design protection , patents , and trademarks .
+Argumentative	 all areas can be easily infringed by 3d printing .13 there is no meaningful way of sustaining these laws against individuals who choose to use 3d printers to benefit from the hard work of others .
+Argumentative	 much in the same way one can steal music online , blueprints for products can be decoded or stolen and subsequently reproduced at almost no expense .
+Argumentative	 it may be impossible to determine where this has been done .14 this is unjust in itself , but it also creates a large deterrent from innovating by removing the profit incentive .
+Argumentative	 corporations and individuals will be pushed away from creating high quality innovative products if they know their blueprints can be pirated and spread online for free or for less than they themselves charge , making their effort in creating them worthless .

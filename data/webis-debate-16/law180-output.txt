@@ -1,0 +1,22 @@
+Non-Argumentative	file sharing, for the purposes of this debate, is providing access to or getting access to software, video, music or other media files for free that you would normally have to pay for.
+Non-Argumentative	 file sharing outside of the control of the copyright holder has become a major problem for media companies who blame it for lost revenues as their content is illegally copied and shared over the internet reducing the demand for the legal product.
+Non-Argumentative	 ‘graduated response’, sometimes also called ‘three strikes’, is a policy copyright holders are calling for to combat online copyright infringement.
+Non-Argumentative	 graduated response means that copyright holders would use automated technical means to monitor the activities of internet users, for example via surveillance of forums and blogs, posing as file sharers in peer-to-peer networks or via an automatic copyright filter applied to internet traffic (‘fingerprinting’ of ‘watermarking’).
+Non-Argumentative	 if a copyright infringement is detected, the copyright holder will collect the internet protocol address (ip-address, the address your internet service provider uses to identify your computer) and then report the infringer’s ip-address to its internet service provider (isp).
+Non-Argumentative	 the isp will then warn the owner of the ip-address.
+Non-Argumentative	 after they have been warned a certain number of times, the isp can terminate or suspend the subscriber’s internet connection, or send a fine for copyright infringement.
+Non-Argumentative	this casefile focusses on the specific policy of graduated response, and only minimally deals with the larger ethical/legal question whether downloading copyrighted content from an unauthorized source should be considered illegal.
+Argumentative	 copyrighted material is intellectual property : someone worked hard for it to produce it .
+Argumentative	 downloading this content without paying the proper rights holder for it amounts to theft .
+Argumentative	 furthermore , downloading copyrighted material from an unauthorized source creates an impossible market for producers of copyrighted content , because they have to ` compete with free ' .
+Argumentative	 why would the average consumer want to pay for a download from an authorized website , when she can get the same movie from a pirate-site for free ?
+Argumentative	 to build a commercially viable content industry online , we need to protect this industry from the unfair competition of the parallel market .
+Argumentative	 research has shown that consumers are likely to stop downloading from unauthorized sources when warned by their isp .
+Argumentative	 for example : seven out of ten ,% , uk music consumers would stop illegally downloading if told to do so by their isp , andper cent of consumers would stop illegally file-sharing after two warnings from their isp .
+Argumentative	 this shows that the threat of a possible disconnection together with a friendly warning is enough to stop most consumers from downloading from illegal source .
+Argumentative	 the reasoning behind it is simple : consumers can now download without a cost , a graduated response mechanism first raises awareness scaring off those who are only casually downloading out of convenience and then heightens the expected cost of infringement and thus makes it more likely consumers will use legal sources .
+Argumentative	 ifpi , digital music report.
+Argumentative	 2009 .
+Argumentative	 url for pdf : first , the sanction after three warnings can be tailored to fit general notions of justice , the punishment need not be severe and could fit the crime : maybe a consumer would be cut off of the internet for only two weeks , or only cut off from accessing download sites but still be allowed to access government and banking sites , or receive a small fine .
+Argumentative	 secondly , the consumer has ample time to change his or her behaviour : a consumer can insist on infringing copyright at least two times before the sanction takes place .
+Argumentative	 the consumer can easily avoid being cut off , even temporarily , meaning the punishment likely does n't even have to take place .

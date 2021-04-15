@@ -1,0 +1,55 @@
+Non-Argumentative	the us supreme court's decision on citizens united raises a vital issue: should corporations have the same free speech rights as individuals?
+Non-Argumentative	 brian pellot discusses the case.
+Non-Argumentative	the casecitizens united v federal election commission (2010) was a us supreme court decision that in effect declared that first amendment free speech rights apply not only to individuals, but also to corporations and unions.
+Non-Argumentative	 the case arose when the right-wing non-profit corporation citizens united was blocked from airing a documentary critical of hillary clinton before thedemocratic primaries.
+Non-Argumentative	 the ruling overturned a provision set down in the bipartisan campaign reform act ofcurtailing corporation- funded ads that directly name federal candidates.
+Non-Argumentative	 critics of the decision, including president barack obama, argued that unlimited political spending by rich corporations with political agendas would create huge inequalities in speech that could undermine democracy.
+Argumentative	- brian pellot corporate personhood is a challenging concept for liberal democracies .
+Argumentative	 on the one hand , the legal fiction that underlies personhood enables groups of citizens to quickly and efficiently join forces to make collective grievances heard and to use weight of numbers to match the influence of wealthier individuals .
+Argumentative	 however , corporations , particularly in the business context , can also be large and unaccountable organisations .
+Argumentative	 this proposition must address two issues .
+Argumentative	 first , whether acts of free expression engaged in by corporations generally should benefit from the same protection as acts of expression engaged in by individuals .
+Argumentative	 second , whether there should be more scrutiny of the membership and objectives of corporations -- or whether corporations should receive rights conditional on their activities .
+Argumentative	 if we follow the reasoning in the citizens united case , which radically changed the interpretation of corporate speech rights in american law , it is clear that acts of corporate speech should benefit from a high standard of protection .
+Argumentative	 corporations can take the form of churches , trades unions or political campaigning groups .
+Argumentative	 the fiction of personhood allows these organisations to operate more freely , ignoring many of the bureaucratic burdens associated with partnership organisations .
+Argumentative	 it also allows citizens to found non-profit making groups , such as pacs , without the risk of being made liable for the debts that those groups generate .
+Argumentative	 profit-led corporations may be used to publish examples of free expression , without necessarily wishing to influence or misuse the ideas expressed .
+Argumentative	 the publishers of political science textbooks , of annotated editions of kapital and of capitalism and freedom are still profit-led businesses .
+Argumentative	 in short , free speech in liberal democracies can not be exercised effectively without the ability to disseminate speech among a large audience , and without the ability to co-operate with others in order to do so .
+Argumentative	 for this reason , where a corporation is permitted to engage in free expression , the contents of its acts of expression should not be subject to restrictions that differ radically from those applied to individual acts of expression .
+Argumentative	 but what about the second issue ?
+Argumentative	 natural persons are allowed - as a general rule - a broad right to free expression .
+Argumentative	 this right is subject to certain caveats , but there is always a presumption that expression should be free and subject to as few limitations as possible .
+Argumentative	 should corporations benefit from the same presumption ?
+Argumentative	 no .
+Argumentative	 the proposition side suggests that corporations ' access to constitutional free speech rights should depend on their goals , objectives and membership .
+Argumentative	 corporations , unlike natural persons , are inflexible in their motives and influences .
+Argumentative	 free speech is preferable to conflict because it acts as a conduit for compromise , but before compromise can take place it must be possible for the participants and audience in a discussion or an exchange of views to be influenced by their opponents ' arguments .
+Argumentative	 profit-led corporations owe a very specific duty to their shareholders - the individual who support and constitute the corporation .
+Argumentative	 under the corporate-laws of almost all liberal democracies , business corporations must act in their interests , and this invariably means generating profit and increasing the value of the equity that each shareholder has in the business .
+Argumentative	 because this duty is a legal one , and failure to uphold it can be cause to remove corporate decision makers , directors and executives , from their jobs and even to bring them to trial .
+Argumentative	 this behavioural imperative is absolute .
+Argumentative	 were a business corporation to announce that it would no longer operate with profit as its core priority , it would collapse .
+Argumentative	 even if this process might not be inevitable in the real world , it still informs corporate culture to a significant degree .
+Argumentative	 natural persons are flexible and pragmatic ; at the very least they have the potential to be so .
+Argumentative	 profit-led corporations are not .
+Argumentative	 free speech rights exercised by a profit-led corporation will always be exercised in the service of the profit motive .
+Argumentative	 the content of public speech is informed as much by the ideas and convictions of individuals engaged in free expression as it is by the concurrent acts of expression engaged in by other individuals .
+Argumentative	 free speech is a product of society and the processes driving the development and growth of society .
+Argumentative	 the environment in which free speech is currently exercised is characterised by pervasive acts of expression -- television commercials , billboards , spam email and advertisements on social media sites .
+Argumentative	 each of these forms of media is aimed at influencing opinions and behaviours .
+Argumentative	 active engagement with a book or a movie is often a prerequisite if an individual is to be influenced by its content , the audience for the content contained in an advert does not necessarily choose to engage with its message .
+Argumentative	 as a result of this , adverts are uniquely placed to bring issues and perspectives to the attention of individuals who might otherwise have been unaware of them .
+Argumentative	 advertising is a powerful political tool .
+Argumentative	 for this reason the manner in which political causes can be advertised and the amount of funding spent on those adverts is , almost without exception , strictly regulated in most liberal democracies .
+Argumentative	 commercial content carried by for-profit organisations such as newspapers and television channels is expensive .
+Argumentative	 the prominence of a message is affected by the amount of money that can be spent on increasing its length , rebroadcasting it and showing it to new audiences .
+Argumentative	 when it comes to political speech , spending money is the best way to increase the efficacy and persuasiveness of a message .
+Argumentative	 irrespective of the qualities of a particular campaign , the qualifications of its candidates or the evidence underlying its policy proposals , its effectiveness will still be measured in the amount of money that it is able to spend on advertising .
+Argumentative	 legal restrictions on political spending are intended to prevent political speech from becoming a battle of budget rather than ideas -- campaign finance laws are designed to protect the integrity , quality and efficacy of speech .
+Argumentative	 in the usa the bi-partisan campaign reform act achieved this goal by preventing corporations from funding `` electioneering communications '' withindays of a caucus ordays of a general election .
+Argumentative	 `` electioneering communications '' were defined by the acts as publications that named a federal candidate , a candidate for a presidential election , for example .
+Argumentative	 the act prevented interest groups indirectly affiliated with particular candidates from spending money to support a candidates ' message .
+Argumentative	 although there are limits on the income that a politician can directly receive from donors , different rules apply to organisations that are not directly affiliated with that politician .
+Argumentative	 and although a politician may receive criticism for receiving corporate money , corporations can contribute to causes indirectly , by providing funds of issue groups .

@@ -1,0 +1,39 @@
+Non-Argumentative	voter identification laws are controversial precisely because they touch on one of the most fundamental political rights—voting.
+Non-Argumentative	 these laws concern a simple policy that revolves around difficult factual questions, over which there is much disagreement.
+Non-Argumentative	 is voter fraud a real problem?
+Non-Argumentative	 do voter id laws cause a downturn in voter turnout?
+Non-Argumentative	 if so, does it prevent any particular demographic from voting more than others?
+Non-Argumentative	 there have been many studies on these questions, often with contradictory conclusions.
+Non-Argumentative	 the economist wrote of this debate, “neither side has much evidence.”
+Non-Argumentative	 a more accurate assessment would be that neither side has much conclusive evidence.
+Non-Argumentative	in the united states, thehelp america vote act (hava) required that all voters show identification, either when they register or the first time they vote, but not necessarily after that.
+Non-Argumentative	 many states have already passed laws that go further, though, requiring identification each time voters go to the polls.
+Non-Argumentative	 several challenges to these voter identification laws have been mounted in the united states.
+Non-Argumentative	 famously in 1966, the supreme court struck down the poll tax in harper v. bd.
+Non-Argumentative	 of elections of virginia, but upheld the lawfulness of voter identification requirements, as long as they are “even handed.”
+Non-Argumentative	 most recently in 2008, in the indiana case of crawford v. marion county election board, the u.s. supreme court held that voter identification requirements are permissible and do not violate the u.s. constitution.
+Non-Argumentative	most democracies around the world require a form of identification at the polling station.
+Non-Argumentative	 most of them also, however, provide this identification as part of a system of “automatic and permanent” voter registration.
+Non-Argumentative	 in the united states, this is not the case.
+Non-Argumentative	 although a majority of u.s. states require some form of voter identification at the polling station, what is required varies widely.
+Non-Argumentative	 some require a signature, some will accept any form of identification, such as an employee or student card, while some demand a photo id card issued by the state itself (such as a driving license).
+Non-Argumentative	 debating the issue at a country or u.s.-state level will mean both sides have to be clear about the local rules or proposals.
+Non-Argumentative	 for a broader  principle of the idea, it may be best for the proposition to simply advocate photo id cards as a standard requirement, while specifying whether the id must be issued by the state.
+Non-Argumentative	 because this issue is most contentious in the united states, it is likely that many examples will come from there, but there is room for exploration into electoral systems where the issue is less publicized.
+Argumentative	 in the united states , there are currently very different identification requirements for voting from state to state , meaning that people often lose their vote when they change their place of residence .
+Argumentative	 all states could require a photo id , or the country could adopt a national voter identification standard , based on thefederal standards for american driving licenses , often called the `` real id card '' .
+Argumentative	 these actions would ensure against voter fraud and make it easier for people to maintain an active citizenship .
+Argumentative	 in addition to cutting down on lost votes , this system would make the electoral process more legitimate in the eyes of the public , a factor that could itself raise voter turnout .
+Argumentative	 people are already required to produce valid identification for a whole range of activities that are less important than casting a vote , such as going to the gym or buying a drink .
+Argumentative	 why is voting the only activity where we make it easy to cheat the system ?
+Argumentative	 the claims that voter identification laws are discriminatory , or that they would discourage people from voting are silly because so many aspects of everyday life require photo identification , that this would not realistically discourage people from voting .
+Argumentative	 studies have shown that nearlycountries around the world have photo identification requirements for voting , so the usa would not be unique in asking its citizens to provide proof of their identity at the polling station .
+Argumentative	 this also suggests that it is not too difficult to organise voting ids , as democracies much poorer than the united states succeed in doing so .
+Argumentative	 former u.s. president jimmy carter , who is currently co-chair of the commission on federal election reform , is a democrat who supports voter identification laws .
+Argumentative	 he points out , `` mexico and most poor democracies in the world have been able to register and give ids to almost all their citizens . ''
+Argumentative	 indeed , it is bizarre to many election experts around the world that the united kingdom and many parts of the united states do not require identification .
+Argumentative	 innocent chukwuma , an election monitor who has observed elections in nigeria and the uk said , of the uk system , `` if you had this system in nigeria , the outsiders would say the potential for abuse would be massive . ''
+Argumentative	 meanwhile voter identification has been a challenge worth meeting for most of the world .
+Argumentative	 even india -- by far the largest democracy in the world -- created inthe unique identification authority of india , uidai , which will provide a national identity card to all indians , which they can use at polling stations .
+Argumentative	 countries around the world have set the standard by proving that voter identification laws are practical ways of improving the integrity of elections .
+Argumentative	 those countries that have not yet adopted the system should do so .

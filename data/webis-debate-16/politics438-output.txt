@@ -1,0 +1,31 @@
+Non-Argumentative	intelligence services provide the government with essential information to make decisions in regards to threats to national security.
+Non-Argumentative	 there are three sources of threats to national security and therefore three ‘target areas’ for intelligence: domestic, foreign and military.
+Non-Argumentative	 in many countries (but not all), each target area has its own specific agency: for example, the uk has mi5 for domestic intelligence, sis (also known as mi6) for foreign intelligence and dis (defence intelligence staff) for military intelligence.
+Non-Argumentative	 the intelligence services usually perform the following four types of activities: intelligence gathering, analysis, counter-intelligence and covert action.
+Non-Argumentative	there are several methods of intelligence gathering, including ‘using personal contact’ such as paid informants, planting agents within organisations, etc. (called humint, human intelligence), inferring information from electronic signals (called sigint, signals intelligence) and more.
+Non-Argumentative	 counterintelligence refers to the activities employed by intelligence agencies/governments to prevent other countries/actors from successfully gathering intelligence against them.
+Non-Argumentative	 covert action is when an intelligence agency engages in clandestine operations against a target.
+Non-Argumentative	to protect national security, intelligence agencies are given broad and exceptional powers.
+Non-Argumentative	 exercising these powers can clash with citizens’ basic rights.
+Non-Argumentative	 in this casefile, i will explore this tension between national security and basic rights by focussing on the case for domestic intelligence in a democracy.
+Non-Argumentative	 the case for military and foreign intelligence in a democracy is more straightforward and more easily justified, but many of the arguments against domestic intelligence agencies could also apply against foreign and military intelligence.
+Argumentative	 does domestic intelligence have a place in a functioning democracy and is it an infringement on this democracy?
+Argumentative	domestic intelligence is very important to the national security and to the safety of the public .
+Argumentative	 domestic intelligence is imperative in preventing terrorist attacks on the country when terrorists are as likely to be natives as foreigners , for example the 7/7 bombers in britain were all native .
+Argumentative	 in order for a domestic intelligence organization to be effective , its organizational discretion must be limited by establishing clear legislation that is not secret , on the focus , limits , and techniques of domestic intelligence .
+Argumentative	 when this is in place domestic intelligence is not harmful , nor infringement on democracy -- it is in the people 's best interest .
+Argumentative	 as professor dahl notes `` intelligence is about the thousands and thousands of routine , everyday observations and activities ... in many cases these observations , this intelligence , is about routine activities undertaken by ordinary americans and others who do not intend to cause harm . ''
+Argumentative	 this intrusion is necessary in order to catch the few who do intend to do harm .
+Argumentative	 domestic intelligence does require the collection of information , but this is not fundamentally different from a standard police investigation .
+Argumentative	 the differences are minor when we have national security at stake .
+Argumentative	 furthermore , the rights , duties and powers of a domestic intelligence service are carefully restricted by law .
+Argumentative	 for example , under dutch law , the general intelligence and security service , aivd , is only allowed to wiretap someone after permission granted by the minister of interior affairs , the uk situation is very similar .
+Argumentative	 generally speaking , for every surveillance action the domestic intelligence can take , it needs to weigh whether the action satisfies the principles of proportionality and subsidiarity , meaning that the invasiveness of a surveillance method should be proportional to the risk the person poses , and that the method chosen should be the least invasive of all possible methods .
+Argumentative	 even if not every citizen can control exactly what the intelligence service does , there is sufficient political and judicial control .
+Argumentative	 an example of this is a recent case involving the dutch aivd , which started wiretapping journalists after they had found a source within the aivd to leak about the run-up to the iraq war .
+Argumentative	 the journalists were wiretapped but when the case came to court , the court judged that the aivd was in error , should stop harassing the journalists , and must delete the files on the journalists immediately .
+Argumentative	 such cases show that the intelligence agencies , and those involved domestically in particular , have judicial and political oversight to make sure they remain within bounds .
+Argumentative	 democracy is therefore not threatened as there is democratic oversight .
+Argumentative	 domestic intelligence services are the only organization that is capable of performing counterintelligence .
+Argumentative	 they have the capacity and the authority to detect foreign spies in the national jurisdiction , and experience with local surveillance and investigation .
+Argumentative	 part of the job of domestic intelligence is to maintain a network of informers and agents , and this can be used to find and track foreign intelligence services on a mission -- these functions ca n't be easily performed by the military or foreign intelligence so an independent domestic intelligence agency is necessary .

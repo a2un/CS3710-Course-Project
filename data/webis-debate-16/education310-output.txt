@@ -1,0 +1,42 @@
+Non-Argumentative	most major educational systems utilize some sort of standardized test for university admissions.
+Non-Argumentative	 the importance of these tests varies between countries.
+Non-Argumentative	 a-level results almost solely determine university admission in the united kingdom, while results of the american sat test, while important, tend to be less valued than secondary school grade point averages (gpa) and supplementary activities and involvement.
+Non-Argumentative	the sat has an interesting history.
+Non-Argumentative	  it was first introduced in the 1930s in an effort to reduce socio-economic discrimination in admissions.
+Non-Argumentative	 the then president of harvard university, james bryan conant, having discovered that a number of seemingly qualified working-class applicants were being rejected in favour of less qualified students from wealthier background, pushed for the introduction of aptitude tests for undergraduate admissions.
+Non-Argumentative	 this then provided an objective measurement against which the behaviour of the admissions office could be measured.
+Non-Argumentative	conant’s campaign was eventually successful, with nearly every institution in the united states adopting either the sat or the act test for admissions.
+Non-Argumentative	 ironically however, the sat subsequently came under attack for discriminating against the very groups conant wished to help.
+Non-Argumentative	a number of studies have shown that low-income and minority students perform far less well on low-income and minority students perform far less well on the exam than white or affluent students.
+Non-Argumentative	  a diminished effect is noticeable on racial lines even when the data is corrected for income.
+Non-Argumentative	furthermore, the importance of the sat has led to the growth of a large industry dedicated to providing tutoring and test preparation services to prospective test-takers.
+Non-Argumentative	 the fact that many american students will pay thousands of dollars on test preparation can be seen as evidence that the test favours the wealthy.
+Non-Argumentative	these criticisms have become more pressing as a number of countries as well as us states have introduced similar tests for graduation from secondary school.
+Non-Argumentative	 in addition to the above criticisms it has also been suggested that they encourage schools to “teach to the test” rather than focus on the installation of pure knowledge.
+Non-Argumentative	as a consequence of these criticisms a number of institutions, such as smith college and wake forest university, have abandoned sats wholesale in their admissions, or made the tests optional.
+Argumentative	 standardized tests are inherently arbitrary .
+Argumentative	 they reduce an applicant 's entire academic career to a single one-day session .
+Argumentative	 the result is an inherently unrepresentative test which fails to paint an accurate picture .
+Argumentative	 what if a student has a bad day ?
+Argumentative	 what if they do poorly on the specific test questions ?
+Argumentative	 in the sat 's there is an error of measurement of aboutpoints either way out of, this is the potential difference between where the student really is and what his or her score on the day was .
+Argumentative	 by contrast , looking at their entire academic record ensures that admissions officers will get a far more comprehensive picture of their actual ability .
+Argumentative	 the law of averages means that bad days and tests will be balanced out with good ones , with the result that their academic record , the result of years of work , will reflect their true performance .
+Argumentative	 standardized tests are inherently skewed in favour of high-income students .
+Argumentative	 tutoring is and industry unto itself and the resulting rise in scores among high income students skews the scale against students whose families can not afford it .
+Argumentative	 by contrast , even if the money is available , the impact that tutoring can have on a student 's academic performance is limited .
+Argumentative	 a tutor can not write papers or take tests for them , and nor can they answer questions in class , or participate in sports or other extracurricular activities .
+Argumentative	 as a consequence , eliminating easily tutored standardized tests helps even the playing field between richer and poorer students .
+Argumentative	 minority students perform less well on tests like the sat , even when correction is made for income .
+Argumentative	 the test with its reading comprehension test and being done in english is obviously biased against students from households where english is not the dominant language as they are much less likely to understand the questions .
+Argumentative	 even when english language skills are not a problem the question choice can contain a cultural bias .
+Argumentative	 one analogy question on thesat used the word `` regatta '' which minority students were unlikely to be familiar with .
+Argumentative	 having this kind of bias is obviously unfair and can never be fully accounted for in a diverse country such as the united states of america where those who set the wording of the questions will never know all possible perspectives .
+Argumentative	 most tests were designed in an earlier era when far fewer students took them .
+Argumentative	 the large number of students who now take tests like the sats results in a situation in which the scoring scale magnifies small differences in performance into large differences in scores .
+Argumentative	 two questions wrong out ofon the math section of the sat may well produce a score ofwhile three questions wrong will result in a. 40 points can mean difference between admission and rejection for many candidates , while telling us nothing about the different abilities of the students involved .
+Argumentative	 indeed on average for% of applicants their sat score will predict their final college grade rank no more accurately than a pair of dice .
+Argumentative	 the importance attached to such tests leads to teachers actively `` teaching the test . ''
+Argumentative	 the result is that many teachers , rather than instilling useful skills or providing a balanced curriculum , end up trying to focus on things that occur on given tests .
+Argumentative	 while this is not a huge problem with the sat itself , it is a serious problem with subject tests like the sat 2s , ap exams , and the british a-levels .
+Argumentative	 this undermines the provision of education in the country .

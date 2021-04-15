@@ -1,0 +1,50 @@
+Non-Argumentative	zambia’s health profile remains bleak.
+Non-Argumentative	 the country’s health profile showcases a life expectancy of 54/56 years for male/females; a child mortality rate ofper 1,000 births; anddeaths due to hiv/aids per 100,000 of the population (gho, 2013).
+Non-Argumentative	 around 6.1% of the gdp is spent on health; and of greater concern is the loss of doctors and nurses.
+Non-Argumentative	 zambia is identified as having a ‘human resource crisis’, with one of the worst ratios of doctors to population.
+Non-Argumentative	 in zambia, the ratio stands atto 15,000 for doctors andto 1,500 for nurses (makasa, 2008); while the who recommend a ratio of 1:5,000 for doctors, and 1:700 for nurses, in african nation-states.
+Non-Argumentative	 nevertheless the human resource shortage continues to widen through zambia’s ‘brain-drain’, with trained health professionals continuing to immigrate.
+Non-Argumentative	 the lack of trained health professionals, and zambia’s growing population, has raised concern but it has also resulted in innovative methods in order to provide solutions.
+Non-Argumentative	 the virtual doctor project (vdp) being pioneered in zambia is a case in point.
+Non-Argumentative	 with 61% of the population, in 2011, identified as cellular subscribers the project provides a means to ensure access to health care is granted.
+Non-Argumentative	the project works on providing vital health care through the internet and mobile broadband.
+Non-Argumentative	 the telemedicine healthcare will connect patients and clinic staff in rural areas to medical doctors and specialists located all over the world.
+Non-Argumentative	 the networks formed provide ‘virtual doctors’ that will assist in providing precise, quick, diagnosis; and treatment for people living in remote areas.
+Non-Argumentative	 zimbabwean medical officers work in a mobile clinic, visiting rural locations.
+Non-Argumentative	 visited patients are screened with appropriate treatment provided.
+Non-Argumentative	 if additional information is required, or the doctors do not know the cause of the problem, patient details can be sent to a network of global medical experts for further advice.
+Non-Argumentative	 the project has three key objectives.
+Non-Argumentative	 first, broadening the scope of patients able to access treatment; secondly, reducing the need to go to distant health centres and unnecessary mortality as a result of late, or inadequate, diagnosis; and finally, improving the efficiency of patient care through knowledge transfers and faster treatment.
+Non-Argumentative	 this focuses on the vdp to explore whether such objectives can be fulfilled.
+Non-Argumentative	 additionally, the project remains of interest due to the technological shift occurring within africa.
+Argumentative	 can technology provide a means to fill zambia’s health care gap?
+Argumentative	zambia 's human resource crisis in healthcare is most prominent in rural areas .
+Argumentative	 poverty remains widespread and despite zambia 's high economic fortune as a result of copper during the 1960s it has become a heavily-indebted poor country .
+Argumentative	 the world bank  classifies% of zambia 's poor as residing in rural areas .
+Argumentative	 with disparities in access to health prevalent , zambia needs to train new doctors and nurses to ensure the population can access health care .
+Argumentative	 the vdp is therefore tackling the issue of access within rural , and remote , areas .
+Argumentative	 access to health is a human right , and the vdp is ensuring such rights are become a reality in rural areas and rural populations .
+Argumentative	 mortality and morbidity can be reduced as rural health workers are able to diagnose and treat a wider range of conditions .
+Argumentative	 the use of ict and creating a network of professional experts enables learning and knowledge transfer between health workers and academics .
+Argumentative	 in addition to the brain-drain , whereby skilled health professionals continue to emigrate from zambia , zambia also shows a slow rate of training of new health workers .
+Argumentative	 therefore the vdp provides a vital learning tool .
+Argumentative	 vdp provides practical skills by healthcare workers to learn from first-hand experience while having access to a field of experts , or advisers , able to answer any questions .
+Argumentative	 the quality of healthcare will be improved as workers in remote locations are given access to information and correct answers for diagnosis .
+Argumentative	 a global pool of skills can be drawn upon , and utilised , when required .
+Argumentative	 the use of mobile clinics and ict in health not only tackles issues around location accessibility to health , by travelling into remote areas , but also the flexibility provided through the clinics mobility means a larger population can be seen and treated .
+Argumentative	 virtual doctors are flexible ; one doctor can be providing his or her expertise through numerous local doctors and nurses at any time .
+Argumentative	 they can help staff with much less training make the correct decisions .
+Argumentative	 by using mobile clinics the location is flexible - and can be altered depending on variations in social need and seasons - , and the time individuals can access the clinic is flexible .
+Argumentative	 mobile clinics are more responsive to demand .
+Argumentative	 each mobile clinic will be equipped with vital tools and equipment , and staffed with a medical assistant , a midwife/nurse , and project officer .
+Argumentative	 furthermore , the presence of a medical staff team means a number of services can be provided for women , men , and children .
+Argumentative	 the team are able to carry out tests on the ground , and if required refer the patient to a hospital .
+Argumentative	 referrals are made by the staff , with all required information passed on to the hospital and an appropriate appointment made .
+Argumentative	 the vdp makes each actor within the referral and treatment process aware of their position and role .
+Argumentative	 the vdp appropriately delegates jobs ; thus improving the system of hospital referrals and minimising unnecessary costs from inappropriate referrals .
+Argumentative	 not only does vdp improve access to primary health care but the networks developed between different health advisers mean changing health demands can be met .
+Argumentative	 across africa there is now a shift in the type of diseases prevalent .
+Argumentative	 increasing rates of non-communicable disease are being recorded - for which advisers can provide ongoing support .
+Argumentative	 additionally , there remains a need to improve understanding and treatment of mental health issues within rural areas in particular .
+Argumentative	 concern with mental health requires greater recognition across africa .
+Argumentative	 finally , data can be collected on health issues affecting rural areas for targeted intervention .

@@ -1,0 +1,34 @@
+Non-Argumentative	there are many relationships in which a duty of confidentiality is owed.
+Non-Argumentative	 this is true of doctor and patient relationships, relationships of employees to employers and also to lawyers and their clients.
+Non-Argumentative	 the overarching principle behind all of these confidences is that there are some relationships that require complete honesty and openness in order for the correct result to be obtained.
+Non-Argumentative	 if a business thought its employees could spread news about them freely and without consequence, they would not let their employees know aspects of the business and therefore the business would work less efficiently.
+Non-Argumentative	 if a patient did not tell their doctor the truth of their illness through fear their family would be told then the doctor could not efficiently cure the patient.
+Non-Argumentative	 the same is true of the lawyer and client relationship.
+Argumentative	 however, given the nature of the legal environment and the law of privacy as it currently stands, is client-attorney privilege no longer desirable?
+Argumentative	if communications between an attorney and their client are confidential , then it allows for lies to be put forward to the court in order to defend someone who is guilty .
+Argumentative	 in the case of a criminal matter , it could mean that even though a defendant has stated they are guilty to their attorney , they will not be found to be guilty .
+Argumentative	 every attorney wants to win their case , and if they are likely to conceal the confession of their client if it means their client will be released .
+Argumentative	 as the communication is confidential , such confession will not be informed to the court and the attorney would not be exposed for their lies .
+Argumentative	 the confidential nature of the communications between attorney and client open the possibility for a system of justice based upon lies .
+Argumentative	 this is not just and so the attorney-client privilege should be abolished .
+Argumentative	 a system of just law is not based on opinions or ideologies .
+Argumentative	 it is about finding evidence and using that evidence to prove or disprove either to ` beyond reasonable doubt ' for criminal cases or ` on the balance of probabilities ' for civil and commercial matters .
+Argumentative	 the burden is on the importance of the evidence .
+Argumentative	 it does not make sense for a legal system to on one hand place so much emphasis on evidence and lock away documents which will contain a vast array of empirical evidence with the other .
+Argumentative	 instead , attorney-client privilege should be abolished and all evidence should be in justices domain in order to ensure that the law achieves a just result .
+Argumentative	 with the attorney-client privilege in place , there is an excessive burden on the solicitor to cope with any information their client may give to them on a confidential basis .
+Argumentative	 this means they have to deal with the information alone .
+Argumentative	 this is an excessive moral burden for any individual to have and should not be justified on the basis that a solicitor is there to advance the interests of their client .
+Argumentative	 it should not be the solicitors role to deal with moral conflicts alone .
+Argumentative	 one of the principles behind allowing communications between a solicitor and their client to be privileged is that a solicitor is independent of their client and so will not breach laws themselves in order to attain their clients objectives .
+Argumentative	 however , after the recession ofand the legal services actthe position of in house lawyer is more prevalent .
+Argumentative	 in house lawyers are not financially independent .
+Argumentative	 they are in fact employees of their ` client ' .
+Argumentative	 this eradicates the principle behind client-attorney privilege and therefore the privilege itself is now irrelevant and should be eradicated .
+Argumentative	 most obviously it seems unnecessary for there to be attorney client privilege when the defendant 's interests can not be adversely affected .
+Argumentative	 for example when the confidential information just does not incriminate the client himself but it might clear somebody else , or when the client is dead .
+Argumentative	 few people will be discouraged from being candid with their lawyers if there is merely the possibility that the communications may be disclosed after their death .
+Argumentative	 in addition there are situations where the client 's interest may indeed be hurt but where this should be outweighed by some other very important public interest .
+Argumentative	 in other words perhaps there should be ` necessity ' or ` public interest ' or ` in the interests of justice ' balancing exceptions to the privilege .
+Argumentative	 this would be the case when public safety is at risk , for example if the client holds some very vital information but is not willing to disclose it to anyone other than his lawyer .
+Argumentative	 in such cases the courts should weigh up and balance the client 's interests against society 's and make the decision accordingly rather than rigidly sticking to attorney-client privilege .

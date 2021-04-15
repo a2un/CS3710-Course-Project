@@ -1,0 +1,48 @@
+Non-Argumentative	electronic ‘intercept’ evidence can involve recording information which has been sent using any form of electronic media, including phone calls from fixed lines and mobiles (cellphones), emails, and pager or sms messages.
+Non-Argumentative	 intercepted evidence can also include information and letters sent in the post.
+Non-Argumentative	 by intercepting this information, many countries hope to prevent crime and increase national security through preventing violent incidents.
+Non-Argumentative	 many countries already accept that wire-tapping is in fact necessary to prevent atrocities such as terrorism – particularly in the wake of the 9/11 attacks on new york - and that it is can be a highly effective way to combat ‘terror cells, war criminals and even mafia godfathers’.
+Non-Argumentative	 however, not all countries agree that the evidence gathered through wire-tapping is in accordance with legal principles.
+Non-Argumentative	 this has given rise to debates over whether intercepted and wire-tapped evidence should be admissible in court.
+Non-Argumentative	many western countries currently deem that wire-tap evidence is admissible in court and is merely subject to the standard rules of evidence.
+Non-Argumentative	 however, wire-tap and intercept evidence is, or is meant to be, a last resort when the court finds that ‘normal investigative procedures have been tried and have failed or reasonably appear to be unlikely to succeed if tried or to be too dangerous.’
+Non-Argumentative	 this is generally interpreted by courts of law ‘to require only that law enforcement try some other techniques, not that they exhaust all reasonably available methods of obtaining the necessary evidence’.
+Non-Argumentative	 in either case, intercept evidence is not supposed to be used as an automatic option without other difficulties presenting themselves in due course of the investigation.
+Non-Argumentative	 while the law supposedly requires that law enforcement agents should not listen in on conversations which are obviously irrelevant to their case – such as personal phone calls among family and friends – it is rare that a wiretap is rejected in a court of law because the agents failed to minimise the tapping.
+Non-Argumentative	britain, ireland and some american states still do not always allow the use of this evidence.
+Non-Argumentative	 typically, warrants for taps can be issued by senior ministers (such as the home secretary in the uk) or by senior judges (in the usa) and must target a specific form of communication by a suspect rather than granted general authority to tap communication lines; for example, they may tap the landline, or emails, or a mobile phone.
+Non-Argumentative	 under the foreign intelligence surveillance act (fisa) in the usa, ‘roaming’ taps (taps which cover any form of communication used by a suspect) do exist but are very rare.
+Non-Argumentative	 in conditions where a judge has granted authorisation for a ‘roaming’ tap, it is possible that all the public telephones (pay phones) in an area could be tapped if authorities suspected that terrorists could be in that neighbourhood.
+Non-Argumentative	 this is evidently a much more invasive and blanket-form of communications tapping.
+Non-Argumentative	 since terrorist activities around 9/11, the american government has been criticised for the extensive levels of wire-tapping and interception which were secretly authorised and even encouraged by the government.
+Non-Argumentative	 particularly, the legal grounding for the creation of the tapping schemes remains unclear and controversial.wire-tapping tends to target three main types of crime: terrorism, organised crime and drug trafficking.
+Non-Argumentative	 many key drug trafficking trials in the usa have involved the admission of some kind of intercepted evidence.
+Non-Argumentative	 however, in most countries a separate discussion is held either in court or with a judge after the warrant has been obtained for a tap in order to determine whether the specific intercept evidence is admissible, or whether it should be suppressed.
+Non-Argumentative	 in the usa betweenand 1994, out of 8,489 criminal wiretaps judges across the us grantedsuppression motions to ‘exclude intercepted material from evidence’ but denied 3,060 pleas for a suppression motion.
+Non-Argumentative	 this ultimately resulted in a 4.3% suppression rate.
+Non-Argumentative	 this data shows that almost all of the evidence collected by interception and wiretapping within states which allow it to be used as evidence is ultimately used in court.
+Non-Argumentative	 no fisa evidence which has been introduced to a criminal case has ever been excluded from that case.
+Argumentative	 wiretapping helps to make society safer ; we have the opportunity to prevent serious crime and to uphold the principle of prosecution in the justice system by catching criminals and convicting them .
+Argumentative	 for example , in the uk in, intercepts led to the seizure oftonnes of drugs and also detected wide-scale fraud and money laundering , resulting inarrests .
+Argumentative	 without this evidence , these criminals may have escaped the justice system and remained free in society to commit other crimes .
+Argumentative	 it is nonsensical to reject evidence which clearly implicates this individuals who would otherwise be released without charge .
+Argumentative	 as the threat of terrorism escalates and had already damaged many countries , refusal to use this evidence in court puts the public at serious risk and fails to act in the defence of the country in question .
+Argumentative	 for example , if the norwegian authorities had kept closer tabs on information passed through ebay , they might well have been able to apprehend anders breivik before he committed the massacre on utoya island .
+Argumentative	 wiretapping is unique in the variety of information it can provide ; it can show locations , times , the relationships between those involved and even record specific details of conspiracies .
+Argumentative	 accordingly , it can also be used to prove the innocence of somebody who might otherwise be wrongly accused or even wrongly imprisoned .
+Argumentative	 the obvious benefits to this motion demand that intercept evidence and wiretapping should be held as legitimate evidence in court .
+Argumentative	 intercept evidence offers the opportunity to speed up court trials and stop wasting time and money by providing information which could lead to a faster , more accurate verdict .
+Argumentative	 other western democracies who use wire-tap evidence believe that is has or will help to achieve criminal convictions , which demonstrates popular support for it as an effective and swift method of justice .
+Argumentative	 given that the uk has allowed wire-tapping in some specific cases , it seems to be that it is not the principle of intercept evidence itself which is viewed as unacceptable by these countries , but perhaps a need to set up a formalised system of the conditions when and where intercept evidence can be used .
+Argumentative	 david bickford , the former chief legal adviser to mi5 , has stated ` i know we have lost cases as a result of not using such evidence ' and other experts have called for the wide use of intercept evidence in court .
+Argumentative	 allowing the use of intercept evidence in the first place may well ensure that wire-taps are better carried out in a standardised , regulated manner britain in particular seems to hold a paradoxical set of values in relation to intercept evidence .
+Argumentative	 for example , british courts have allowed intercept material which has been lawfully obtained by foreign police forces .
+Argumentative	 one notable example of this was the conviction of the merseyside drugs squad chief elmore davies when it was discovered that he had a corrupt relationship with drug baron curtis warren .
+Argumentative	 the information which led to his conviction was collected on dutch mobile phones by the dutch police force , despite the fact that some of the conversations took place wholly within the uk .
+Argumentative	 however this -- bizarrely -- was allowed as evidence in a british court , despite the systematic rejection of intercept evidence in other cases .
+Argumentative	 when a country seems to recognise and even capitalise on the potential of intercept evidence in some cases but simultaneously reject it in others , the result is inconsistent legal standards which damage accountability and transparency of the entire state .
+Argumentative	 intercept evidence can be very useful for showing associations between groups of people , which can be incredibly helpful in cases such as conspiracies to link people and events together .
+Argumentative	 it can also expose inconsistencies or falsity in an individual 's alibi or personal character if they deny contact with a certain party where intercept evidence proves that they had communicated .
+Argumentative	 however , under the status quo the defence lawyer may not be authorised to intercept evidence which would prove their client 's innocence .
+Argumentative	 allowing such techniques would help to equalise the prosecution and defence ; after all , the aim of court is not to blindly prosecute the defendant , but to ascertain whether he or she is in fact guilty before any prosecution occurs .
+Argumentative	 widening the array of tools which can be used by both prosecution and defence helps to encourage a wider view of the case and arrive at a more accurate verdict .

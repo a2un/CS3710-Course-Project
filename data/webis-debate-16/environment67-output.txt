@@ -1,0 +1,48 @@
+Non-Argumentative	nuclear power is any nuclear technology designed to extract usable energy from atomic nuclei via controlled nuclear reactions.
+Non-Argumentative	 the most common method is through nuclear fission, though other methods include nuclear fusion and radioactive decay.
+Non-Argumentative	 nuclear fission is the splitting of large atoms into smaller atoms with the release of energy stored in the original nucleus.
+Non-Argumentative	 it produces no greenhouse gases or other such pollutants but does produce radioactive waste that must be stored safely for thousands of years.
+Non-Argumentative	 there is also the risk of a nuclear explosion (due to meltdown) if the reaction gets out of control.
+Non-Argumentative	 this is different from nuclear fusion, a process by which small atoms are joined to create larger atoms, releasing energy in the process.
+Non-Argumentative	 this technology is currently some years away from being widespread.
+Non-Argumentative	the debate surrounding the use of nuclear power is hugely contentious.
+Non-Argumentative	 there is much public fear about nuclear energy, fuelled by incidents such as chernobyl, three mile island and, most recently, fukushima in japan.
+Non-Argumentative	 it is, however, an issue which is becoming more important as we approach a time when fossil fuel resources may run out, making it necessary to find other power sources.
+Non-Argumentative	 germany has fuelled the debate by announcing a complete abandonment of its nuclear power programme by 2022, a u-turn on its previous decision to extend the life of its oldest plants by aroundyears.
+Non-Argumentative	 in 2007, nuclear power produced 28% of the eu's commercial electricity, down from 32% in 2002.
+Non-Argumentative	 the us hadreactors providing 19% of the country's electricity.
+Non-Argumentative	the main question is whether nuclear energy should constitute a major component of the 21st century mixed economy of energy plans to combat global warming and to help us meet the growing energy demand?
+Argumentative	 nuclear power is the most practical renewable energy source as all the others face major difficulties either in scaling up to provide enough to be a major component of nations energy mix , do n't provide energy all the time , the ` base load ' , or cause other environmental problems .
+Argumentative	 nuclear is a proven technology with large firms that can build large amounts of nuclear energy generation capacity .
+Argumentative	 the most efficient source of renewable energy has been hydroelectric power , however , this usually creates more problems than it solves .
+Argumentative	 building a large dam necessarily floods an enormous region behind the dam which in turn can displace thousands of people .
+Argumentative	 there are also enormous ecological costs to dam building .
+Argumentative	 a classical example is the aswan dam in egypt along the nile .
+Argumentative	 not only did many thousands lose their homes but the yearly inundation of the nile , which fertilised the surrounding land for thousands of year , was also stopped ; the subsequent silting up of the river destroyed much wildlife1 .
+Argumentative	 a similar story of ecological destruction and human homelessness surrounded the more recent three gorges dam project in china2 .
+Argumentative	 wind , tidal , and solar power are all affected by issues of reliability .
+Argumentative	 the tendency of wind power , in particular , to be a volatile source of energy , means that other power sources such as fossil fuel power stations have to make up the shortfall when wind levels drop .
+Argumentative	 tidal power technology is still in at an early stage and may take years to become profitable .
+Argumentative	 it also has the potential to cause environmental problems in the marine environment .
+Argumentative	 for a large area of the european union , there is not the potential to exploit solar power as there are not enough hours of sunlight .
+Argumentative	 `` wind and solar power have their place , but because they are intermittent and unpredictable they simply ca n't replace big baseload plants such as coal , nuclear and hydroelectric .
+Argumentative	 natural gas , a fossil fuel , is too expensive already , and its price is too volatile to risk building big baseload plants .
+Argumentative	 given that hydroelectric resources are built pretty much to capacity , nuclear is , by elimination , the only viable substitute for coal .
+Argumentative	 it 's that simple .
+Argumentative	 ``although eu countries are using energy more efficiently , demand for energy continues to rise , especially in the new eastern european member states .
+Argumentative	 the demand for electricity is expected to rise by 8-9 % bymeaning a much more urgent need for generating capacity .
+Argumentative	 at the same time world energy consumption is projected to expand by% fromtoleading to high oil and gas prices .
+Argumentative	 the production of renewable energy is not growing at a fast enough pace to replace fossil fuels ; wind , wave and solar simply can not provide the quantities of energy required .
+Argumentative	 it is possible -- indeed , desirable - to combine nuclear power with other renewables , but nuclear energy is a crucial part of that mix as the only option capable of producing the quantity of energy required .
+Argumentative	 nuclear power is actually more efficient than any other power source : a gram of uraniumcontains as much energy as four tons of coal .
+Argumentative	 in many senses nuclear energy is the cleanest of renewables .
+Argumentative	 it does not produce emissions such as co2 and greenhouse gases , which are harmful to the population and the environment .
+Argumentative	 roughlymillion metric tons of co2 emissions are avoided each year in the united states by generating electricity from nuclear power rather than some other source ; according to the u.s. department of energy , that is nearly equivalent to the co2 released from all u.s. passenger cars .
+Argumentative	 it is true that it does produce radioactive waste but since this is in solid form it can be dealt with relatively easily and stored away from centres of population .
+Argumentative	 furthermore , as new technology becomes available to allow the more efficient use of nuclear fuel , less nuclear waste will be produced .
+Argumentative	 , a recent example is the development of the fast breeder reactor , which uses fuel much more efficiently , in addition , the use of nuclear power reduces our foreign energy dependency .
+Argumentative	 the european union is a net importer for energy , and as such is reliant on russia and norway , predominantly , for oil and gas supplies .
+Argumentative	 events such as the dispute between russia and the ukraine over gas supplies demonstrated that the eu 's energy can easily be disrupted by political situations outside its control1 .
+Argumentative	 it also means that the eu could be drawn into disputes between russia and neighbouring countries because it has a vested interest in the region .
+Argumentative	 this could set a dangerous precedent , where the eu could be intimidated by russia , because the eu relies so heavily on russian gas .
+Argumentative	 building more nuclear power stations would ensure a more secure supply of energy , thereby avoiding the potential for energy supply to become a politically charged issue on an international scale .

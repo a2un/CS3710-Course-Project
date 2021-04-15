@@ -1,0 +1,16 @@
+Non-Argumentative	the amendments passed onmayprevent internet service providers from blocking, hindering, or slowing down applications and services on the internet, save in specific circumstances such as to give effect to a court order or to preserve the integrity and security of the network.
+Non-Argumentative	 in addition to providing for net neutrality, the amendments also restrict the situations in which isps can disconnect or wiretap their users.
+Non-Argumentative	free speech debate’s second draft principle states: “we defend the internet and all other forms of communication against illegitimate encroachments by both public and private powers.”
+Non-Argumentative	 the amendments approved by the senate of the netherlands onmay 2012, by limiting the situations in which isps can manage internet traffic, help to preserve an open internet in which individuals can access information and communicate freely.
+Non-Argumentative	 while recognising that in certain circumstances, it may be appropriate for isps to block or slow down applications and services, these amendments signal that in order to protect freedom of speech and information on the internet, such activities should be the exception, and not the rule.
+Non-Argumentative	- graham reynoldsdebaters notealthough this is, in reality a prop heavy motion, it’s not quite as cut and dry as the introduction would make it appear.
+Non-Argumentative	 the issue for isps is primarily one of cost – although some proponents of the legislation have suggested that this is little more than price gouging on the part of isps.
+Argumentative	 there is also a more subtle issue of equality and access – that flat rate tariffs mean that light bandwidth users are paying for those using more capacity.
+Argumentative	the principle here is that the data being used is simply none of the isps business .
+Argumentative	 their job is simply to provide an agreed bandwidth , at an agreed price to the end user .
+Argumentative	 how the end user makes use of that band width is up to them .
+Argumentative	 if , for example , they 're choosing to skype from a mobile device -- one of the points of contention -- it 's hard to see what that has to do with the isp .
+Argumentative	 this is of concern both to end users and to the producers of content .
+Argumentative	 there are very real concerns here , as a result , about the impact this has on freedom of expression .
+Argumentative	 the best way to avoid censorship -- either commercial or political -- is to ensure that it remains impossible to achieve in the first place .
+Argumentative	 once it becomes possible to give preference to some forms of content or points of origin , then commercial censorship at least becomes a great deal easier .

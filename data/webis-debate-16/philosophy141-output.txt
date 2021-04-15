@@ -1,0 +1,36 @@
+Non-Argumentative	imagine that one day you come across five people in immediate and mortal peril.
+Non-Argumentative	  you and you alone can save them, but doing so will kill one other person.
+Non-Argumentative	  for instance, five people may be in path of an out-of-control trolley that could be diverted onto a track where there is only one person.
+Non-Argumentative	  you are aware of no morally relevant differences between the six people: none of them are murderers or saints who especially “deserve” to live or die, and none of them ended up in this situation due to their own negligence or transgressions.
+Non-Argumentative	  given such a situation (hereafter referred to as the “thought experiment”), the resolution is that you should opt to actively kill the one person in order to save the many.
+Non-Argumentative	two terms are useful for understanding this debate.
+Non-Argumentative	  “utilitarianism” is the ethical view that, broadly speaking, prescribes whatever course of action will result in the greatest good, usually measured by adding up the total amount of good (also known as “utility”, and which in practice usually means happiness or some other measure of a thriving life) that accrues to everyone.
+Non-Argumentative	  according to utilitarianism, the correct act is that which results in the highest total utility, regardless of what actions it is that bring that state about; because of its emphasis on consequences, it is sometimes known as “consequentialism.”
+Non-Argumentative	  according to utilitarianism, we generally ought not to kill, and ought to keep promises, because doing so makes everyone better off.
+Non-Argumentative	  “deontology”, by contrast, is the ethical view that prescribes a moral agent to act in accordance with specific rules, regardless of their consequences.
+Non-Argumentative	 deontology will, for instance, prescribe specific moral duties not to kill, and to always keep promises, not because of their results, but simply because we ought to do them.
+Non-Argumentative	  deontological rules are often justified on the basis of treating each person as they deserve and respecting them not as a “mere means.”
+Argumentative	 we have good reasons to value keeping people alive : it allows people the opportunity to enjoy their time on earth and effect changes to everyone 's benefit , even if that simply means being around for our loved ones .
+Argumentative	 most people would even go so far as to say that , by virtue of being conscious creatures , human beings deserve to live .
+Argumentative	 that is to say , they have a right not to suffer an untimely death .
+Argumentative	 this is the reason that we normally abhor killing : it cuts short human life .
+Argumentative	 however , in this thought experiment , the inescapable reality is that someone 's right to life will be violated .
+Argumentative	 either the one or the five will die , and all the horrible results attached to the cessation of a human life will inevitably befall one of the groups .
+Argumentative	 in light of this fact , our moral obligation is to reduce the number of people whose right to life is violated and maximize the number for whom that right is actualized .
+Argumentative	 one ought to commit the act that results in the fewest deaths , and that is to kill the one and save the five .
+Argumentative	 every time a life is extinguished , some amount of present and future good vanishes from the world .
+Argumentative	 all the good things that that person would have experienced -- joy , accomplishment , delight -- will no longer occur .
+Argumentative	 similarly , all the beneficially effects they will have one other people , from productively working to loving their family , will also not occur .
+Argumentative	 true , people also experience unhappy times , and they sometimes negatively affect others , but in all but an exceptionally small number of cases , the net contribution of a human life to total utility is positive , indeed , if it were n't , we probably would n't consider death to be bad .
+Argumentative	 even though there will be some fluctuations in how much each life contributes to total utility -- a happy doctor probably adds more utility than a miserable meter maid -- it is overwhelmingly likely that saving the five lives will result in a situation of greater utility than preserving the life of the one .
+Argumentative	 while rawls did oppose utilitarianism , he generated a hypothetical scenario that is useful , even to the utilitarian , for evaluating moral theories .
+Argumentative	 imagine that all human beings were placed in a scenario where they knew nothing about their station in the world , and know only the basic laws of reasoning and human nature .
+Argumentative	 they do not know what their level of intelligence , personality traits , gender , socioeconomic status , race or religion will be , nor even when or where they will be born ; they are `` behind the veil of ignorance . ''
+Argumentative	 every single person who will ever exist is placed in this situation at the beginning of the universe .
+Argumentative	 next , these human beings are told they will decide which rules will govern human conduct when they come to inhabit the world .
+Argumentative	 in such a situation , all rational human beings would ensure that they are treated fairly no matter who they are ; they will have perfect sympathy for every human being ever , because they could end up being that person .
+Argumentative	 whatever rules they come up with in this situation are the rules that are ethically correct , because these rules will never treat anyone unfairly , as that would be an irrational move .
+Argumentative	 so how would people in this hypothetical treat the decision whether to kill one to save five ?
+Argumentative	 rational actors would agree on the rule to kill the one and save the five .
+Argumentative	 after all , any given person is five times as likely to end up as a member of the five rather than as the one .
+Argumentative	 thus , behind the veil of ignorance , the rational human being would proudly prescribe `` save the five and kill the one . ''

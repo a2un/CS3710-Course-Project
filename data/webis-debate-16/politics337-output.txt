@@ -1,0 +1,56 @@
+Non-Argumentative	modern day society relies more and more on electronic forms of communication for ease, speed and accessibility.
+Non-Argumentative	 a huge majority of citizens in developed countries have easy access to the internet, and internet access in developing countries is becoming more and more common.
+Non-Argumentative	 mobile phones provide another opportunity for developing countries; for example, in kenya, the mobile baking company m-pesa has now provided a farmer in the rift valley the same banking opportunities as somebody living in a major city.
+Non-Argumentative	 thousands of people who become new mobile phone subscribers live in emerging markets, and electronics have demonstrated an extraordinary power to connect communities.
+Non-Argumentative	 however, while banking and instant messaging have already taken off, simple actions such as voting in a local or general election must be done by traveling to a polling station and physically checking off a piece of paper.
+Non-Argumentative	 in both developed and developing countries, this can be a problem for those who live far away from a polling station.
+Non-Argumentative	 many people are beginning to ask whether this should change to online voting.
+Non-Argumentative	electronic voting brings with it many complex issues.
+Non-Argumentative	 electronic voting machines which have been trialed in the usa are still criticised, and their effectiveness and integrity have been questioned.
+Non-Argumentative	 some american states now demand that electronic voting systems must produce a paper record which can be checked manually if there are any doubts about the results.
+Non-Argumentative	 this was a particularly prominent issue in theus presidential election, where it is suspected that thousands of votes were actually lost by the machines.
+Non-Argumentative	 however, even in states where these terminals are used, they are still located at the polling station rather than allowing people to send in votes from their own homes.
+Non-Argumentative	this is concerned with the prospect of voting over the internet or via mobile phones, which is known as remote electronic voting (rev).
+Non-Argumentative	 while no country has yet adopted rev as the main voting method, the uk conducted trials in 2003, and arizona introduced internet voting for overseas citizens.
+Non-Argumentative	 despite this, there are still plenty of critics who stand against electronic voting and believe that it is an unreliable way of measuring votes.
+Non-Argumentative	the proposition case must consider whether they intend to make all voting electronic, or whether only in certain cases.
+Non-Argumentative	 if all voting was electronic, then the current norm of local polling stations would be unnecessary, which would save a huge amount of time and money.
+Non-Argumentative	 external voting alone costs many european countries millions of euros for a relatively small proportion of the population.
+Non-Argumentative	 however, performing all voting electronically raises questions about those who do not have home access to internet, and perhaps more importantly how the entirety of the vote could be completely accurate given problems experienced with this form of voting in the past.
+Non-Argumentative	 it is easier to defend a case which argues that internet and electronic voting is one option which should be enacted alongside traditional polling methods to benefit those who cannot or do not, for whatever reason, get to the polling stations to vote.
+Non-Argumentative	 if proposition chooses to use a mechanism which states that all voting must be done electronically, they take on an (unnecessary) burden to show that the software used is completely secure and cannot be infiltrated or suffer from technical complications which could compromise the elections, for example by losing votes.
+Non-Argumentative	 this is very difficult to prove as many experts believe that there is no computer (especially in a ‘distributed system’, or network of computers) which is completely and utterly impenetrable.
+Non-Argumentative	 given that a large part of the proposition case is extolling the virtues of voters having personal, home access to the internet and electronics, it would be impossible to avoid the networking connections between computers when conducting an election in this way.
+Non-Argumentative	 therefore, it is more difficult to defend a case which states that all voting should be done electronically than defending a case which allows multiple forms of voting, of which electronic or internet voting is one.
+Argumentative	 in many western democracies , voter turnout has been falling while voter apathy appears to be rising .
+Argumentative	 in the uk , voter turnout fell sharply between 1997-2000 , and the last general election insaw only% of potential voters cast a vote .
+Argumentative	 in the usa , the federal election ofsaw only 37.8 % of potential voters cast their vote .
+Argumentative	 voter turnouts across europe follow this trend .
+Argumentative	 when so few people participate in the key act of democracy -- voting for the political leader of the country -- it begins to raise worrying questions about the legitimacy of that democracy in the first place .
+Argumentative	 if electronic or internet voting was introduced as an option alongside more traditional polling methods , it would expands the accessibility of the voting system in general .
+Argumentative	 internet or electronic voting would be a strategic practical measure .
+Argumentative	 it would make voting convenient for busy modern citizens because it minimalises the amount of effort each individual has to contribute -- namely , they do not have to travel to the polling stations .
+Argumentative	 as such , it removes physical restrictions on the voting process and becomes more universally accessible .
+Argumentative	 this would prevent people from being unable to vote because they are ` too busy ' -- whether this is simply because their local polling station is too far away for them to commute to , or to fit in alongside their other daily responsibilities based at work or home .
+Argumentative	 in modern , developed countries , many people spend both work and leisure time on the internet or using electronic devices .
+Argumentative	 our traditional voting systems , with polling stations and paper slips , is out of line with how many of the population now live their lives .
+Argumentative	 when we see an overwhelming number of people -- especially young people -- voting for reality television programmes such as the x factor , it demonstrates a valuable method of engagement which the political system is missing out on .
+Argumentative	 this had led to sources such as the bbc darkly questioning ` is big brother really more popular than election ? '
+Argumentative	 , indicating that while the overall number of votes in thegeneral election in the uk outweighed those cast for big brother and fame academy , the proportion of votes by young voters , 18-34 , could be understood to show more engagement with these television shows than with the general election .
+Argumentative	 in any case , it is clear that we should bring our voting systems up to date in order to engage young people and the wider population .
+Argumentative	 because it would not require manual counting and tallying , remote electronic voting would allow the results to be known much faster , and would also eliminate the potential for human error , which is a common problem with the current system .
+Argumentative	 for example , in the wisconsin supreme court election of, a clerk discovered around 14,000 unrecorded votes which had been missed by human error -- and actually changed the outcome of the election .
+Argumentative	 the clerk is now being questioned regarding her party allegiances under suspicion that she was trying to turn the election into a victory for her favoured candidate -- yet another potential for abuse under the current system .
+Argumentative	 machines , of course , are impartial concerning party allegiances and so eliminate the potential for individual corruption .
+Argumentative	 electronic voting would also save a great deal of money which is currently spent on employing counters and renting venues to be used as polling stations .
+Argumentative	 for example the uk general election incost over #million to organise , canada 'selection cost around $million , and the usa presidential election ofwas estimated to cost up to $ 5.3 billion .
+Argumentative	 electronic voting also brings the opportunity to increase access to those who currently find it difficult to register their votes ; for example , electronic voting could be conducted in a minority language for those who find english difficult .
+Argumentative	 in the past , trials of this have been shown to improve voter turnout among minority groups .
+Argumentative	 electronic voting could also benefit the elderly , as many find it difficult to use the lever-operated ballots currently in use .
+Argumentative	 using electronic voting ensures that no groups are left out of an essentially democratic process .
+Argumentative	 our online security is improving every day ; people feel safe enough to trust their most important details , such as bank details , to the internet -- why not their vote ?
+Argumentative	 secure software and encryption protocols have allowed online markets to flourish , with companies such as paypal inspiring a sense of security among their customers .
+Argumentative	 any software for remote electronic voting could be scrutinised well in advance .
+Argumentative	 it also removes the potential for identity fraud , which is a problem with current postal voting systems .
+Argumentative	 each voter could be given a unique password , if necessary alongside something like a special swipe card , ensuring that everybody who is entitled to vote gets a single vote .
+Argumentative	 given that in many jurisdictions , traditional polling stations do not require voters to provide id , it would arguably be a security improvement on the current situation .

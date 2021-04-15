@@ -1,0 +1,29 @@
+Non-Argumentative	a cyber attack is an attack on computer based systems to sabotage them or to spy on others, through such means as viruses, hacking, denial-of-service attacks (i.e. dos - making the network resource or machine unavailable for its intended users), and others [1][2].
+Non-Argumentative	 large scale cyber attacks can be referred to as cyberterrorism, and if carried out by one state against the other in a politically-motivated attack – as cyberwarfare.
+Non-Argumentative	 in this case the potential damage is substantially larger and can range from disabling websites, stealing classified data to disabling essential services such as power grids [3].
+Non-Argumentative	due to its potentially huge impact on the state should a large scale cyber attack succeed, it has been questioned whether a definition of war and acts of war have to be expanded to non-traditional measures [4].
+Non-Argumentative	 for instance, as ofusa considers cyber attacks as acts of war if they are sufficiently disruptive [5].
+Non-Argumentative	 however such definition is not universally and internationally accepted as at the moment only an armed conflict is considered an act of war, as defined by the un charter [6].
+Argumentative	 the world has developed along with the new digital medium .
+Argumentative	 lots of crucial business and government services have moved online .
+Argumentative	 while the military modernised in relation to digital developments , a definition of an act of war has not caught up with it yet .
+Argumentative	 it is now being suggested that the digital domain is the new realm of warfare for the 21st century .
+Argumentative	 states have already been using cyber attacks in hostilities and as acts of aggression against each other .
+Argumentative	 for instance , usa and israel have released a virus stuxnet that sabotaged parts of iran 's nuclear programme in, followed by retaliatory cyber attacks by iran on usa  .
+Argumentative	 in thewar over kosovo the usa successfully hacked serbia 's air defence systems , which left serbia vulnerable to air attacks   .
+Argumentative	 cyber attacks are thus attacks that can be perpetrated by states against other states in an effort to weaken the other state , the same way armed attacks are used .
+Argumentative	 given these realities large scale cyber attacks should be considered acts of war .
+Argumentative	 large scale cyber attacks can result in substantial harms to the state equivalent to those of an armed attack .
+Argumentative	 many states are dependent on flawless functioning of government and financial services online , and attacking them would cause mass disruption .
+Argumentative	 for example , massive cyber attacks can cause serious disruption to economy by targeting financial , banking and commercial services ; they can target government websites and steal confidential information that would compromise country 's security , as was the case with usa in ; they could target power grids and shut down infrastructure on a massive scale across the country .
+Argumentative	 all these instances cause disruption and leave the targeted country vulnerable with the government unable to operate successfully .
+Argumentative	 this way , for instance , a large scale cyber attack from russia on georgiacaused massive disruption to government , banking services , and communication within and outside of the country  .
+Argumentative	 for these reasons usa 's pentagon decided to consider a cyber attack that ` produces the death , damage , destruction or high-level disruption that a traditional military attack would cause ' an act of war  .
+Argumentative	 given the damage of possible attacks to the state , large-scale cyber attacks should be considered an act of war .
+Argumentative	 currently international law on how a state can respond to cyber attacks by another state is lacking : it only covers cyber attacks during armed conflicts or those are tantamount to an armed conflict  .
+Argumentative	 an attacked state thus has no legitimate means to respond to cyber attacks .
+Argumentative	 this leaves them no option of self-defence , which is an important element in international law .
+Argumentative	 moreover , without international law regulating cyber warfare between states , there is no actual illegitimacy for cyber attacks .
+Argumentative	 despite their far-reaching and grave consequences , cyber attacks by other states do not feature heavily in the news .
+Argumentative	 few people actually know about cyber attacks between usa and iran , which would be an unimaginable situation should these states resorted to military attacks .
+Argumentative	 this apparent lack of condemnation and attention in the wider society to cyber attacks further decreases ability of the state to defend themselves or even call out an aggressor publically as there is little to fear from global opinion for such actions .

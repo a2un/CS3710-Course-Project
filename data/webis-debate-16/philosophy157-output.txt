@@ -1,0 +1,67 @@
+Non-Argumentative	the ideal of participatory democracy is to give ordinary citizens the possibility of participating in the public decision-making.
+Non-Argumentative	 the very idea of democracy has changed significantly from the ancient greek direct democracies to the dominant form of liberal representative democracy existing today in most of the modern nation-states.
+Non-Argumentative	 while in the ancient greek laws and important decisions were debated and voted on by an assembly comprising of every single citizen, the modern liberal democracies are based on the political representation and elites' competition.
+Non-Argumentative	  ancient democracies were little city-states like athens that allowed only a few thousand of their people to be “citizens”, making it possible for the entire voting population to be gathered in one place while leaving the labour in the hands of the slaves and women and even for representatives to be elected on the basis of a lottery.
+Non-Argumentative	 for modern nation-states with universal suffrage this is impractical.
+Non-Argumentative	 modern democracies with mass electorates are all representative democracies in which elected politicians make decisions on behalf of the people, rather than the people making decisions directly.
+Non-Argumentative	 although purely direct democracy may be impractical, there are several ways in which representative democracies can become much more participative.
+Non-Argumentative	 in other words, there are several ways in which a more participatory approach of democracy can allow citizens to become direct contributors to the public decisions and improve the political representation in our liberal institutions.
+Non-Argumentative	 several political participatory formulas already exist today.
+Non-Argumentative	 some of them are already consolidated in current democracies, for example primary elections in political parties, limitation of mandates and rotation of public positions.
+Non-Argumentative	 other examples are less common but growing, for figure constitutional or legislative refrenda, popular legislative initiative, or participatory budgeting.
+Non-Argumentative	 california, for example, allows its citizen-initiated referenda: anyone can propose a new law, and if they can get enough signatures on a petition in support of it, the law is put directly to the people in a public vote.
+Non-Argumentative	 another example is the right of recall: allowing citizens to force early elections if enough of them sign a petition saying they are unhappy with the current government (used in california and british columbia).
+Non-Argumentative	 there are significant examples regarding participatory budgeting, such as porto alegre (brasil), where citizens are involved directly in the configuration of the public investments throughout territorial and sectorial meetings with experts, politicians, civil society organisations and individual citizens.
+Non-Argumentative	 much greater participation is also increasingly possible as a result of online voting and discussion that avoids the problem of bringing millions of people to one place to make decisions.
+Non-Argumentative	then, if we imagine a continuum between a complete direct democracy, where all the citizens participate in all public decisions, and a pure representative one, where the government of public affairs lies solely in the hands of political or representative elites, we can see that some kind of intermediate formulas might be discussed and applied in the existing democratic political communities.
+Non-Argumentative	 we should understand democracy as a gradual process instead of a binary concept.
+Non-Argumentative	 this means thinking of government as a phenomena that can be more or less democratic rather than only democratic or nondemocratic.
+Non-Argumentative	 as a result we will see that participatory forms of government can improve both, the efficiency and the sustainability of our political institutions in the era of technological and educational revolution we live today.
+Argumentative	 representative democracy is oppressive because it takes more power away from the people than is strictly necessary .
+Argumentative	 whilst a completely direct democracy is impractical , we should nevertheless recognise that there is no reason not to have as much direct democracy as possible .
+Argumentative	 in the words of herbert marcuse , `` free election of masters does not abolish the masters or the slaves '' .
+Argumentative	 the key point is that merely holding an election every four years does not fundamentally alter our state of subservience : at election time , we are given a choice of three or four manifesto programmes on an all-or-nothing basis , manifestos which may never be honoured .
+Argumentative	 the only power over our government we as citizens have is the power to punish politicians retrospectively , by voting them out after years of obeying them .
+Argumentative	 it is quite possible to create an authoritarian system that has regular representative elections , even with several competitive candidates and yet still not be giving power to the people , as is shown by iran .
+Argumentative	 this is wrong .
+Argumentative	 the presumption should always be that the people keep as much power over their own lives and hand as little to their masters as possible because they never get to consent to the powers that rule them .
+Argumentative	 given that we are born under governments which exist whether we like it or not , it as an offense to our natural liberty and equality that those governments should hold any more power over us than is absolutely necessary .
+Argumentative	 besides , when the interests of the state are not the interests of the people , we have the government of the few over the rest .
+Argumentative	 representative democracy is less legitimate because it empowers unelected elites .
+Argumentative	 representative democracy is systematically biased against ordinary people , particularly poor people .
+Argumentative	 unelected elites like wealthy businessmen , trade union leaders , civil servants , party officials and media proprietors are able to bypass the democratic process and exert direct pressure on elected politicians .
+Argumentative	 this happens because decisions are made behind closed doors by individual politicians who can be easily bullied or bought out .
+Argumentative	 this allows elites to effectively wield public power even when they are not elected themselves .
+Argumentative	 if decisions were made more directly by the people there would be less scope for elites to manipulate the process by simply appealing to a politician 's self-interest .
+Argumentative	 elite influence is a systematic problem because it is self-reinforcing : elites lobby for laws to preserve their own power and disempower the public .
+Argumentative	 a good example of this is rupert murdoch 's behind-the-scenes lobbying for the repeal of regulations preventing him from dominating the media market .
+Argumentative	 considering that at any past time in the human history the conditions of equality in labour division , education and technological tools were not as favourable as nowadays in terms of allowing citizen political involvement , a more participatory political decision-making must be now taken into account .
+Argumentative	 a clear example is the iceland 's `` wiki constitution ''  .
+Argumentative	 then , although the classic criticism against direct democracy formulas based on the premise that size creates problrms -- referring to the difficulties to shape participatory citizen deliberation in our enormous current nation-states -- may still be true , cultural , social and technological conditions for participation have become much more favourable .
+Argumentative	 representative systems struggle to sustain popular trust , which is bad for democracy .
+Argumentative	 public trust in politics always tends to be dented by three specific features of representative systems .
+Argumentative	 firstly , the perception of elite influence over the political process is a largely unavoidable feature of electoral democracy because such elites are easily placed to manipulate politics , even if they do not actually do so .
+Argumentative	 secondly , the spotlight in representative democracy is on individual politicians , rather than on policies , and consequently exposing scandals and smearing the characters of politicians is an essential part of the political game : media coverage of politicians is largely hostile , particularly problematic if it diverts discussion from the merits and demerits of particular policies .
+Argumentative	 a third feature of the system is that , since public opinion has no direct power , unpopular decisions do n't have to be properly justified .
+Argumentative	 governments often defy public opinion when they think a policy will pay off in the long run , and often they do n't really bother explaining why they are doing so , a good example of this is gordon brown 's signing of the lisbon treaty in.
+Argumentative	 these three factors all tend to undermine trust in politics in representative systems .
+Argumentative	 trust is essential for democracy because without it people will not bother following politics or voting , leaving the door open for elites and aggressive minorities to wield undue influence .
+Argumentative	 a clear example of this phenomenon is in the united states , where christian fundamentalists -- despite being a minority -- wield enormous power .
+Argumentative	 the reason for this is that turnout in american elections is very low , whilst fundamentalist christians are politically very active and organised , allowing them huge influence .
+Argumentative	 giving people more responsibility for making political decisions is itself a good thing .
+Argumentative	 participating in political decision-making allows citizens to achieve a higher state of intellectual and moral maturity , letting them lead better and wiser lives .
+Argumentative	 since the difficult business of government forces them to learn how to make tough choices and compromise they will quickly abandon their simplistic prejudices and assumptions .
+Argumentative	 representative democracy is the opposite : it treats the public as if they are incapable of making important choices themselves , and thus denies most citizens a chance to meaningfully participate .
+Argumentative	 representative democracy often implies a mercantile vision of the political performance , where the politicians play the role of the sellers and the voters act as a simple buyers of political options .
+Argumentative	 this means that the vast majority of voters remain ignorant at best , and apathetic at worst .
+Argumentative	 this leaves them vulnerable to manipulation by deceitful politicians and political commentators .
+Argumentative	 furthermore , since many government decisions involve major moral dilemmas , citizens who participate in such decision-making will develop a more nuanced moral understanding and more thoughtful personal conduct .
+Argumentative	 thus , all democratic participation is beneficial .
+Argumentative	 participatory forms of democracy allows people to participate more than they otherwise would .
+Argumentative	 evidence for the impact of democratic participation is that radical and intolerant views are frequently expressed in young democracies but fade away as participation in democratic politics implants in the people respect for due process and different points of view .
+Argumentative	 a good example of this is that intolerant far-right parties are much more successful in the young democracies of eastern europe than the old democracies of western europe .
+Argumentative	 participatory democracy will lead to better decisions because laws will only be passed if they can be justified to the people .
+Argumentative	 professional politicians are disproportionately drawn from the privileged classes and are often ignorant of the effects their policies will have on ordinary people -- as are the civil servants who advise them .
+Argumentative	 moreover , professional politicians are susceptible to corruption , lobbying or bullying by powerful vested interests seeking to direct government policy away from the general interest represented by the vast majority of the individual citizens , who generally lack such a determinant influence over the decision-making .
+Argumentative	 participatory democracy will therefore make sure that the legislation that is passed will help the people as much as possible ; for example they will limit unecessary bureaucracy and make sure that policies are fair .
+Argumentative	 thus for example switzerland has passed with% of the vote in a referendum a proposal that prevents big payouts for managers known as ` golden handshakes ' and ` golden parachutes ' and shareholders will have a veto over saleries .

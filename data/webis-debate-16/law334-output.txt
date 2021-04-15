@@ -1,0 +1,7 @@
+Non-Argumentative	at present police can remove samples of dna from individuals suspected of involvement in a specified crime, commonly by the removal of cells from the mouth using a cheek swab.
+Non-Argumentative	 the dna of the suspect can then be compared to any genetic material found at the scene of the crime; the dna of each individual does not change during his lifetime.
+Non-Argumentative	 this technique is commonly used in police investigations and is termed 'dna fingerprinting'.
+Non-Argumentative	 the creation of a database of dna would allow police to use dna in order to search for a suspect, rather than merely to provide evidence once a suspect has been apprehended.
+Non-Argumentative	 the british police have operated a database of the dna of convicted criminals since- controversially, however, this includes dna samples from all those arrested for a crime, even if they were later acquitted.
+Non-Argumentative	 as a result, the uk database now records of 4.5 million people on it; it has also recently been the subject of an adverse european court of human rights judgement.
+Non-Argumentative	 proponents of a dna database argue that it would lead to more convictions and act as a deterrent, whilst opponents maintain that state knowledge of such sensitive information is a step too far and an affront to civil liberties.

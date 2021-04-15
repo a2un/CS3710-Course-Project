@@ -1,0 +1,48 @@
+Non-Argumentative	the internet is increasingly seen as a potential battleground of the future, while there would be few casualties in such warfare it would have an impact on the real world.
+Non-Argumentative	 while the director of national intelligence has poured cold water over the idea that there might be a ‘digital pearl harbour’ in the next few years the possibility that cyber-attacks could knock out the u.s. electric grid has been recognised.
+Non-Argumentative	  the united states military has gone so far as to suggest that they would consider military action in response to such acts with one military official suggesting “if you shut down our power grid, maybe we will put a missile down one of your smokestacks.”
+Non-Argumentative	 there have even been suggestions from the defense service board that in the case of the biggest possible cyber-attacks the united states could not rule out a nuclear response.
+Non-Argumentative	as yet however there have been no cases of cyber warfare but there have been increasing problems with cyber-attacks in a peace time situation; companies such as the new york times and google have been hacked, a virus called stuxnet put back iran’s nuclear program, and most of estonia’s internet was reduced to a crawl inas a result of a distributed denial of service (ddos) attack.
+Non-Argumentative	 david rothkopf has suggested that cyber-attacks will result in a ‘cool war’ in which there is little military action but persistent tension as a result of minor actions such as cyber-attacks he says “the purpose of cool war is to be able to strike out constantly without triggering hot war while also making hot wars less desirable (much as did nuclear technology during cold war days) or even necessary.”
+Non-Argumentative	 if this becomes the case then the internet will surely be where this mostly happens.
+Non-Argumentative	 this makes it important that there is some formal way of responding to cyber-attacks that does not involve military action as the next step in escalation.
+Non-Argumentative	 instead there needs to be a mechanism to resolve disputes and penalise the offender.
+Non-Argumentative	fortunately at the same time as the us suggested the military option would not be off the table it accepted it would be a last resort and diplomatic, informational, and economic would come first “as appropriate and consistent with applicable international law”.
+Non-Argumentative	so what are cyber-attacks and the proposed targeted sanctions?
+Non-Argumentative	nato defines cyber attacks to be ‘a cyber operation, whether offensive or defensive, that is reasonably expected to cause injury or death to persons or damage or destruction to objects’ this is useful for defining what attacks might be just cause for a military response but this is a very high bar at the moment as few attacks cause immediate physical damage.
+Non-Argumentative	 sanctions could be used in response to much lower level attacks.
+Non-Argumentative	 businesses in particular would be keen to have the government help prevent the stealing of intellectual property through the imposition of sanctions.
+Non-Argumentative	 so we would simply be imposing sanctions when the economic losses are quantifiable and sufficient to be worth government effort to prevent.
+Non-Argumentative	sanctions are the use of economic pressure by a state (or group) of states in an attempt to get another state to change a policy.
+Non-Argumentative	 the pressure is either through direct economic pain on the actor launching the attacks or to encourage public pressure.
+Non-Argumentative	 in this case sanctions would be either attempting to prevent a state from launching cyber attacks of its own or to persuade it to crack down on non-state actors that are launching these attacks.
+Argumentative	 cyber-attacks pose a distinct problem for international diplomacy in that they are difficult to prevent and difficult to respond to .
+Argumentative	 any kind of military response as the united states has threatened would be completely disproportionate against all but the very biggest of cyber-attacks , those that actually result in deaths , diplomacy on the other hand is as good as no response , if the response is simply a tongue lashing then the benefits of cyber espionage will be far higher than the cost .
+Argumentative	 the only proportionate , and therefore just , response to a cyber-attack is sanctions .
+Argumentative	 the sanctions can be used to impose a similar economic cost on the offending state as that caused by the cyber-attack .
+Argumentative	 this would be just like the world trade organisation 's dispute settlement rules .
+Argumentative	 they allow for the imposition of trade sanctions to a similar value to the losses being experienced as a result of protectionist action , with the sanctions sometimes on differing sectors to those where there are unfair trade practices .
+Argumentative	 alternatively sanctions could mean a proportionate internet response ; users from the offending nation could be prohibited from using internet services , for example an attack by hackers on the us could result in people from that country being blocked from google and other us internet services .
+Argumentative	 the big advantage of sanctions is that they can be as finely targeted as needed .
+Argumentative	 if the sanctioning country only knows which country the cyber attack originated from then they can be broad brush sanctions , but if there is knowledge of which group initiated the attack then the sanctions can be more specific .
+Argumentative	 for example in the case of unitof the chinese people 's liberation army that mandiant showed has been attacking us companies the united states could target sanctions at the people 's liberation army by tightening weapons bans .
+Argumentative	 alternatively if the hackers are private then banning the import of certain computer equipment into that country would be appropriate .
+Argumentative	 if individuals are known then the sanctions can be even more targeted , for example by freezing any bank accounts held outside their own country as the us did against north korea when it sanctioned banco delta asia through which north korea laundered money from criminal activities .
+Argumentative	 at the moment the response to cyber-attacks has essentially been nothing .
+Argumentative	 it is however clear that some response is needed as without a reaction there is no deterrence ; the attacks will keep coming until something is done .
+Argumentative	 the number of cyber-attacks and the sensitivity of the information stolen have been increasing over recent years and as more and more work is done online and more and more systems are connected to the internet so cyber-attacks become more attractive .
+Argumentative	 there needs to be a deterrent and the best deterrent is to make sure that such attacks are costly .
+Argumentative	 as these attacks are usually cross border , and in this debate we are only concerned with cross border attacks , then the only way to create a cost is through sanctions .
+Argumentative	 these sanctions can either hit the assailant directly or else hit his government so encouraging them to crack down on hacking emanating from their country .
+Argumentative	 it should be remembered that china argues that it does not launch cyber-attacks meaning that any such attacks from china must duly be private .
+Argumentative	 if this is the case then sanctions are the best way of prompting internal law enforcement .
+Argumentative	 sanctions therefore encourage all nations where there are cyber criminals to make sure they take such cyber-crime seriously .
+Argumentative	 if they do not get their own cyber criminals under control then they may be affected by sanctions .
+Argumentative	 cyber conflict favours the offence ; when the defender is successful they gain nothing and impose no harm on the attacker who is free to try again elsewhere .
+Argumentative	 the attackers are free to attack until they get past the defences somewhere .
+Argumentative	 that the attacks do n't risk lives helps to encourage an offensive mindset as makes it seem like there is no downside to attempting to dominate your opponent .
+Argumentative	 this means the only cyber response is to attack the attacker so that the same advantages apply .
+Argumentative	 the result is that cyber-attacks have a very real danger of long term tension or escalation .
+Argumentative	 if one side is losing a conflict where both sides are attempting to steal the other 's intellectual property , or the other has little to steal , the response may be something like the stuxnet attack that involves physical damage , this then would probably be considered an illegal use of force creating a thin line between a cyber-war and a real war .
+Argumentative	 when the cyber war involves physical damage as the us has warned there then may be a military response .
+Argumentative	 sanctions are a way to apply pressure without this risk of escalation into a military conflict .

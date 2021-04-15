@@ -1,0 +1,37 @@
+Non-Argumentative	a creative commons license is a kind of copyright license that gives people the right to use, share, and expand upon a creator’s work whether this is an art work, a piece of literature, or a scientific or academic material.
+Non-Argumentative	 it offers a significant protection against accusations of copyright infringement and is believed by some to offer artists flexibility they may desire.
+Non-Argumentative	 however it also erodes artists’ control of their work because it can be reused without permission meaning it may be used in contexts which the original creator may not have envisaged or approve of.
+Non-Argumentative	attendant in all this is the additional issue of how the government should license work that it commissions.
+Non-Argumentative	 work for government is almost by definition being carried out for the people in one form or another so should all work done by government have a creative commons license and therefore be open to those people?
+Non-Argumentative	 the state engages in a lot of work that is licensed; it funds art, and culture (usually only in part) but the state also funds scientific and academic research, the creation of large amounts of software, the creation of large data resources, the development of weapons systems, for all creative commons licencing could apply but in some cases it may not be wise to do so.
+Non-Argumentative	some governments, such as the united states already go part way towards making work they fund available to the public.
+Non-Argumentative	 any “government [that] work is prepared by an officer or employee of the united states government as part of that person's official duties” is in the public domain.
+Non-Argumentative	 which means they are similarly open to reuse and reproduction as if they were creative commons.
+Non-Argumentative	 however it is notable that this does not apply to works produced by government contractors or by institutions that are largely or fully funded by government such as the smithsonian which this motion includes.
+Argumentative	 everyone benefits and is enriched by open access to resources that the government can provide .
+Argumentative	 a work is the province of its creator in most respects , since it is from the mind and hand of its creator that it is born .
+Argumentative	 but when the state opts to fund a project , it too becomes a part-owner of the ideas and creation that springs forth .
+Argumentative	 the state should thus seek to make public the work it spends taxpayer money to create .
+Argumentative	 this is in exactly the same way that when an employee of a company creates something presuming there is the correct contract the rights to that work go to the company not the employee .
+Argumentative	 the best means for doing this is through mandating that work created with state funding be released under creative commons licenses , which allow the work to be redistributed , re-explored , and to be used as springboards for new , derivative works .
+Argumentative	 this is hampered by either the creator , or the government , retaining stricter forms of copyright , which effectively entitles the holder of the copyright to full control of the work that would not exist had it not been for the largesse of society .
+Argumentative	 if state funded work is to have meaning it must be in the public sphere and reusable by the public in whatever form they wish .
+Argumentative	 simply put taxpayer bought so they own it .
+Argumentative	 current copyright law assigns too many rights , automatically , to the creator .
+Argumentative	 law gives the generator a work full copyright protection that is extremely restrictive of that works reuse , except when strictly agreed in contracts and agreements .
+Argumentative	 making the creative commons license the standard for publicly-funded works generates a powerful normalizing force toward a general alteration of people 's defaults on what copyright and creator protections should actually be like .
+Argumentative	 the creative commons license guarantees attribution to the creator and they retain the power to set up other for-profit deals with distributors , something that is particularly useful for building programs that need to be maintained .
+Argumentative	 at base the default setting of somehow having absolute control means creators of work often do not even consider the reuse by others in the commons .
+Argumentative	 the result is creation and then stagnation , as others do not expend the time and energy to seek special permissions from the creator .
+Argumentative	 by normalizing the creative commons through the state funding system , more people will be willing to accept the creative commons as their private default .
+Argumentative	 this means greater access to more works , for the enrichment of all .
+Argumentative	 the result is that a norm is created whereby the assumption is that information should be open and shared rather than controlled and owned for profit by an individual or corporation .
+Argumentative	 all governments recognise a right to freedom of information as part of freedom of expression making it the government 's responsibility to provide access to public information and many are enabling this through creating freedom of information acts .
+Argumentative	 this is simply another part of that right .
+Argumentative	 the nature of the internet and mass media is such that many creators can benefit from the freedom and flexibility that creative commons licenses furnish to them .
+Argumentative	 creative commons provides vast benefits in allowing a creation to have life after its funding has run out or beyond its original specifications .
+Argumentative	 creative commons means that the original work can be considered to be a building block that can simply be used as a foundation for more applications and modifications .
+Argumentative	 for example in many countries government has for decades produced official maps for the country but these can only be irregularly updated -- often with a new release of a paper map .
+Argumentative	 however the internet means that maps could easily be regularly updated online by enthusiastic users and volunteers as things change on the ground if those maps were available under creative commons .
+Argumentative	 this is why applications like openstreetmap or google maps , which is not creative commons but can be easily built upon by creative commons projects , are now much more successful than traditional mapping and has often forced government map providers to follow suit such as the uk 's ordnance survey making many of its maps free and downloadable .
+Argumentative	 it is important to recollect that those operating under a creative commons license still maintain control of the marketable aspects of their work and can enter into deals for the commercial distribution of their works .

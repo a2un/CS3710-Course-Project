@@ -1,0 +1,53 @@
+Non-Argumentative	nuclear energy is one of the main sources of energy in today’s european union.
+Non-Argumentative	 currentlyeu countries use nuclear power plants to produce electrical energy.
+Non-Argumentative	 togetherpower plant blocks are deployed with total output of more thangw.
+Non-Argumentative	 the produced energy of these plants covers 28.5% of eu’s energy consumption as of 2010.
+Non-Argumentative	 nuclear power plants are therefore currently a vital component in providing the eu with electric energy.
+Non-Argumentative	 however, after the fukushima accident inmany started calling for the end of nuclear energy in the eu, thus adding to the discussion started long ago as a result of worries about nuclear disasters and nuclear waste.
+Non-Argumentative	 for instance germany in direct response to fukushima accident decided to speed up its planned phase out nuclear power plants by 2022.
+Non-Argumentative	 in the uk on the other hand in octoberagreed the construction of the uk’s first new nuclear power plant in twenty years and there may be more to come.
+Non-Argumentative	 the question of what to do with nuclear energy in the european union is therefore a current debate that affects countries all over the union.
+Non-Argumentative	 in this debate we will look upon arguments in favour and against closing all nuclear power plants in the eu and substituting them with other forms of energy production.
+Non-Argumentative	 of course this cannot be done overnight, thus we are dealing with long-term time frame (about a decade).
+Argumentative	 while nuclear power it is often proclaimed as clean this does not mean it is a renewable resource like wind , wave , or solar power .
+Argumentative	 nuclear power plants use uranium to produce energy , which , of course , needs to be mined .
+Argumentative	 currently only 2.3 % of uranium used in reactors in eu is mined in the eu .
+Argumentative	 moreover , the world 's main uranium deposits are located outside the eu .
+Argumentative	 the use of nuclear energy thus undermines energy self-sufficiency of the eu .
+Argumentative	 this may pose a serious threat to the future .
+Argumentative	 natural , and other , resources are usually used as the first intermediates of diplomatic disputes .
+Argumentative	 when a country wants to exert diplomatic pressure on another country , or bloc of countries like eu , trade bans or embargos are widely used .
+Argumentative	 for example inrussia stopped gas supply to ukraine due to trade dispute between their two national gas companies .
+Argumentative	 therefore , the supply of uranium may be susceptible to diplomatic and trade relations , which are often volatile , and consequently nuclear power may not be reliable .
+Argumentative	 is it one of the aims of the eu to become less dependent on imported material needed for energy production .
+Argumentative	 as a non renewable resource we also need to think about the possibility of supplies running out .
+Argumentative	 the concept of ` peak uranium ' is sometimes overblown but there is only ayears supply of uranium at current consumption rates .
+Argumentative	 if the price gets high enough then there are other options for production , including from seawater , but this would clearly mean a big increase in cost and concerns that producers will try to keep cheaper uranium to themselves and export for much higher prices .
+Argumentative	 thus over longer term the nuclear energy may become far more expensive , or even unavailable due to lack of fuel .
+Argumentative	 in order not to harm environment , not to cause climate changes , renewable power plants , wind , water , solar , should be used .
+Argumentative	 however , these do not work together with nuclear power plants .
+Argumentative	 nuclear plants -- giant very hot machines -- are designed to operate at full speed ,% , all the time .
+Argumentative	 they are not designed to change the output quickly .
+Argumentative	 since they are very expensive to build , they are not economic unless operated at full speed , also turning off and on is expensive .
+Argumentative	 solar and wind power plants are not stable , output varies because of natural factors , and thus need a backup , called a baseload .
+Argumentative	 nuclear plants are not a good backup for renewables .
+Argumentative	 we need nimble plants in order to support wind and solar plants .
+Argumentative	 nuclear power stations do not work with solar , wind and water power stations , because they are running at full speed all the time , because of economic and technical reasons .
+Argumentative	 instead gas plants that can be powered up and down as required are needed to balance power generation .
+Argumentative	 if we want to move towards green world -- nuclear energy does not help us to do so .
+Argumentative	 it is generally agreed that we want more renewable power generation in europe even if there are disagreements about where plants should be situated or how much must come from renewable sources .
+Argumentative	 the european union aims to have% of energy from renewable sources by.
+Argumentative	 and if it is to meet co2 reduction targets far more will be needed in following decades .
+Argumentative	 nuclear is also not as helpful as renewables in meeting these co2 reduction targets .
+Argumentative	 it is estimated that renewables produce 10-40g of co2 pre kwh of electricity produced , but nuclear is currently much higher at 90-140g / kwh , though still only a tenth of coal .
+Argumentative	 and as mining becomes more difficult it is estimated that this could double making nuclear no better for reducing co2 than gas power .
+Argumentative	 in the response to fukushima accident european commission carried out a series of stress tests on nuclear power plants in the eu to minimise the risk of such an accident occurring in the eu .
+Argumentative	 the results were disturbing .
+Argumentative	 according to the report european power plants are not well prepared for an emergency situation .
+Argumentative	 some of the power plants would have less than hour to restore safety systems in case of electric blackout .
+Argumentative	 currently more than 100,000 citizens live in proximity ,km , ofreactors .
+Argumentative	 should anything go wrong , many lives would be endangered .
+Argumentative	 the problems could be resolved by dramatic investments into the safety measures .
+Argumentative	 however , these investments would require approximately $bn .
+Argumentative	 this is a sum indebted european union can not afford .
+Argumentative	 therefore shutdown and substitution of these hazardous plants would be a much better idea .

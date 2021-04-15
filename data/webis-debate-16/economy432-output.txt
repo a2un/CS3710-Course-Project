@@ -1,0 +1,37 @@
+Non-Argumentative	california is building a high speed railway line to link its two most populous areas; san francisco and los angeles.
+Non-Argumentative	 the project is staggeringly expensive and has been criticised as too slow by elon musk, the creator of paypal, tesla, and spacex.
+Non-Argumentative	 instead he suggests a new idea he calls the hyperloop to be used between “high traffic city pairs that are less than aboutkm ormiles apart”.
+Non-Argumentative	 beyondmiles musk believes that supersonic jets would be more economic – though of course at the moment there is no supersonic air travel.
+Non-Argumentative	 the route for which the proposal is initially designed from san francisco to los angeles is onlymiles so the hyperloop would be the best possible mode of transport; it would be several times faster than any current commercial transportation method as well as being cheaper.
+Non-Argumentative	there are several main elements to the proposal;first it is in a tube the whole distance.
+Non-Argumentative	 the reason for this is to reduce resistance.
+Non-Argumentative	 the tube would be at a much lower pressure than the outside world so there would be less density of air creating less resistance and so allowing faster speeds while using less energy.
+Non-Argumentative	 the tube itself would be on pylons and could be built above existing road infrastructure for much of the way, with the exception of when the corners on the roads are too tight.
+Non-Argumentative	despite the low pressure there would still be a build up of air in front of the pod (the individual car in which the users are seated) essentially making it like a syringe with the pod pushing the air in front so once again building up resistance.
+Non-Argumentative	 the hyperloop however would use a compressor fan to transfer air at high pressure to the bottom and rear of the pod.
+Non-Argumentative	 this would allow the creation of an aircushion – musk suggests this is much the same as an air hockey table – underneath the pod so eliminating the need for wheels.
+Non-Argumentative	the hyperloop would be powered by electricity.
+Non-Argumentative	 the pod would be initially accelerated by external round induction motors, as used by musk’s own tesla cars, at the stations that would bring the pods to high speeds of aroundmph.
+Non-Argumentative	 the limited resistance would mean there would be no motor operating most of the time but the pods would be given a reboost everymiles or so.
+Non-Argumentative	 the pods themselves would have batteries to power their fan and any internal electronics.
+Non-Argumentative	 as it is all electric musk suggests that by placing solar panels along the top of the tube the hyperloop would generate more than enough electricity to run itself so this would be a green method of travel.
+Non-Argumentative	the proposal for the hyperloop provides two separate options for the system; either a passengers only system in which each pod would takepassengers, or one in which the pod would also accommodatevehicles which increases the cost of the system.
+Non-Argumentative	the hyperloop would not be anything like any current transportation, musk seems to have described the proposal quite accurately in the months before the announcement as a “cross between a concorde and a railgun and an air hockey table”.
+Non-Argumentative	 it would be like concord in that it is an (almost) supersonic transportation system, a railgun in terms of how the propulsion is created and an air hockey table keeping the pods afloat.
+Argumentative	 public transportation has not been getting much faster over the last few decades .
+Argumentative	 the fastest method of transport , supersonic jets in the form of concorde ceased operation in october.
+Argumentative	 even if at some point a new generation of supersonic planes are built these will not be ideal for travelling between cities that are comparatively close together .
+Argumentative	 the time spent getting the plane up and down from cruising altitude means they would take longer over these short distances than a slower option at ground level .
+Argumentative	 the hyperloop at more than 700mph will be twice as fast as high speed rail .
+Argumentative	 to take the different options on the san francisco-los angeles route cars take 5hours 30minutes , the proposed high speed train would take 2hours 38minutes , by plane takes 1hour 15minutes whereas the hyperloop would only take 35minutes .
+Argumentative	 the hyperloop would be cheap to build .
+Argumentative	 the pods themselves would only cost $ 1.35 million each , the pressurised tube just $ 650million , or double if wanting vehicles , with only two stations their cost would only be $ 250million .
+Argumentative	 the biggest cost would be the construction of the pylons carrying the tube which is estimated at $ 2.55 or $ 3.15 billion .
+Argumentative	 there is an estimated total cost of $ 4.06 billion for the passenger only version or $ 5.31 billion for the vehicle version .
+Argumentative	 this should be compared to the current cost for california 's high speed rail project which is estimated to be $ 68billion while covering much the same ground .
+Argumentative	 the hyperloop would be the cheapest mode of intercity transport possible .
+Argumentative	 `` transporting 7.4 million people each way and amortizing the cost of $billion overyears gives a ticket price of $for a one-way trip for the passenger version of hyperloop . ''
+Argumentative	 there are very few additional costs .
+Argumentative	 usually the main cost for transportation beyond the infrastructure is the energy but the hyperloop produces more energy than it uses so would make a profit here .
+Argumentative	 there would be additional maintenance costs and some minor staff costs but this is unlikely to add too much to the ticket price .
+Argumentative	 the hyperloop would therefore be very price competitive compared to the $and up for flights .

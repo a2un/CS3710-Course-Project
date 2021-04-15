@@ -1,0 +1,40 @@
+Non-Argumentative	june and julybrought a large number of revelations about the size of surveillance by the national security agency, the us intelligence agency that deals with monitoring communications around the world.
+Non-Argumentative	 while it was known that the internet was monitored it was not known to what extent, the leaks showed that such surveillance was indiscriminate essentially hovering in much of the internet for analysis, so much that the data is often held for only a few days.
+Non-Argumentative	 the revelations also applied to other countries agencies such as the uk’s government communications headquarters.
+Non-Argumentative	on the 5th june a court order by the united states foreign intelligence surveillance court was published.
+Non-Argumentative	 this showed that verizon was being forced to hand over all telephony metadata to the national security agency.
+Non-Argumentative	 this included “session identifying information (e.g., originating and terminating telephone number, international mobile subscriber identity (imsi) number, international mobile station equipment identity (imei) number, etc.), trunk identifier, telephone calling card numbers, and time and duration of call… [however] metadata does not include the substantive content of any communication”.
+Non-Argumentative	this was however just the start.
+Non-Argumentative	 a program called prism was revealed the next day.
+Non-Argumentative	 the prism program allows collection of data on via a large number online services run by us companies including microsoft, google, yahoo, and facebook among others.
+Non-Argumentative	 the companies provide structured information that is easy for the nsa to search and analyse through the prism program.
+Non-Argumentative	a couple of months later information of another program called xkeyscore were published in the guardian newspaper.
+Non-Argumentative	 xkeyscore is apparently the nsa’s widest reaching system that covers "nearly everything a typical user does on the internet", including the content of emails, websites visited and searches, as well as their metadata.
+Non-Argumentative	 this is a data retrieval system that lets the nsa search other sources, particularly all the unstructured information they hoover up from tapping into the fiber optic cables that enter and leave the united states allowing access to almost all internet traffic.
+Non-Argumentative	the response to this spying has of course been outrage, but most of that outrage has been internal; that the spying is so indiscriminate it means that the national security agency is spying on americans and so breaching their fourth amendment rights.
+Non-Argumentative	 however no one is particularly bothered about whether the united states should be using these programs against other countries – the implicit assumption is yes it should.
+Non-Argumentative	the united states clearly gets an immense amount of data out of its dragnets of information on the internet but what is more questionable is whether such programs are actually a benefit to the country.
+Non-Argumentative	 most nations manage with much smaller amounts of worldwide surveillance and there was outrage across many countries at the extent of the surveillance.
+Non-Argumentative	 the actions of the nsa have therefore both benefited the united states; they provide the benefit of being able to track almost anyone but the cost in terms of lost trust and damaged relations with the rest of the world.
+Argumentative	 trust is important in international relations .
+Argumentative	 whenever there is an international agreement each side has to trust that the other side will fulfil its side of the bargain ; there is no court to step in and ensure that they do .
+Argumentative	 trust therefore needs to be built up .
+Argumentative	 a large part of this is simply fulfilling promises that have been made in such treaties but trust can also be about being open with each other .
+Argumentative	 when a country engages in an immense spying operation against another nation it is clearly damaging the trust between those nations .
+Argumentative	 with the united states this is just one in a long line of issues that have undermined trust in the us government ; the iraq war , guantanamo bay , drone strikes etc. and the continued violations of international law these represent have all undermined trust in the united states internationally .
+Argumentative	 every country needs friends and historically the united states has managed to maintain a large number of close relationships with states around the world ; it has alliances with various asian states such as south korea and japan , with many middle eastern states , and with almost the whole of europe .
+Argumentative	 the nsa 's spying has damaged these relationships .
+Argumentative	 french president hollande said `` we can not accept this kind of behavior from partners and allies , '' while the president of the european parliament , martin schulz complained `` the united states of america treats its closest partners , including germany for example , but also the european union as a whole like hostile powers '' .
+Argumentative	 there have even been suggestions that this would jeopardise trade talks as warned by the commissioner viviane reding that `` if there is any doubt that our partners are bugging the offices of european negotiators , then the future trade talks could be in difficulty '' .
+Argumentative	 the united states , along with europe , has been the key voice arguing for freedom on the internet and in particular that the internet should not be controlled nationally .
+Argumentative	 russia and china in particular have been advocating for much more control over the internet by states with russia 's proposal advocating that `` member states shall have equal rights to manage the internet '' and `` member states shall have the sovereign right to establish and implement public policy ... on matters of internet governance , and to regulate the national internet segment '' .
+Argumentative	 essentially every state should have the right to censor and surveil their chunk of the internet .
+Argumentative	 with the united states already doing this countries that have previously been wavering may be much more inclined to support these proposals over us objections .
+Argumentative	 the us would stand to lose out as it is currently the country with most control over internet governance .
+Argumentative	 the united states is the preponderant power in internet commerce ; most of the big internet companies , the big software companies , even many of the hardware companies are companies that are based in the united states .
+Argumentative	 this both enables us use of these systems for spying as occurred with prism because it happens that most web traffic passes through the united states , and makes the united states vulnerable when the world 's consumers think these companies have been betraying their trust .
+Argumentative	 if consumers do n't think us companies can guarantee their data and privacy it should be no surprise that they will consider transferring their business .
+Argumentative	 cloud computing is particularly affected , among the revelations has been that microsoft helps the nsa with access to its cloud storage service skydrive .
+Argumentative	 according to a survey by the cloud security alliance% of non us responders had cancelled a project with us based providers since the leaks about nsa projects and% say they would be less likely to use a us based service .
+Argumentative	 the information technology & innovation foundation estimates this could cost the us cloud computing industry between $ 21.5 and $ 35bln in revenues over the next three years .
+Argumentative	 and this is just one part of the computing and software industries , other areas are likely to be less affected but may well still lose business .
