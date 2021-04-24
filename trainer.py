@@ -16,6 +16,7 @@ def train(model, optimizer, train_dataloader, valid_dataloader, args):
         model.train()
         for step, (x, y) in enumerate(train_dataloader):
             x, y = x.to(args.device), y.to(args.device)
+            print("inside training",x)
             pred = model(x)
             loss = F.cross_entropy(pred, y)
 

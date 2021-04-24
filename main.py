@@ -32,26 +32,23 @@ def main(args):
                  hidden_size=args.hidden_size,
                  hidden_size_linear=args.hidden_size_linear,
                  class_num=args.class_num,
-                 dropout=args.dropout,
-                 use_lexical=args.lexical,
-                 use_syntactic=args.syntactic,
-                 use_semantic=args.semantic).to(args.device)
+                 dropout=args.dropout).to(args.device)
 
     if args.n_gpu > 1:
         model = torch.nn.DataParallel(model, dim=0)
 
-    sem_embedding = None
-    syn_embedding = None
-    with tf.Session() as sess:
-        saver = tf.train.Saver()
-        saver.restore('./tools/syntactic_semantic_embeddings/embeddings/syntactic_embeddings')
-        syn_embedding = sess.run()
-        syn_embedding = tf.convert_to_tensor(syn_embedding)
-        saver.restore('./tools/syntactic_semantic_embeddings/embeddings/semantic_embeddings')
-        sem_embedding = sess.run()
-        sem_embedding = tf.convert_to_tensor(sem_embedding)
-    print('syn embedding size',syn_embedding.size())
-    print('sem embedding size',sem_embedding.size())
+    # sem_embedding = None
+    # syn_embedding = None
+    # with tf.Session() as sess:
+    #     saver = tf.train.Saver()
+    #     saver.restore('./tools/syntactic_semantic_embeddings/embeddings/syntactic_embeddings')
+    #     syn_embedding = sess.run()
+    #     syn_embedding = tf.convert_to_tensor(syn_embedding)
+    #     saver.restore('./tools/syntactic_semantic_embeddings/embeddings/semantic_embeddings')
+    #     sem_embedding = sess.run()
+    #     sem_embedding = tf.convert_to_tensor(sem_embedding)
+    # print('syn embedding size',syn_embedding.size())
+    # print('sem embedding size',sem_embedding.size())
 
     train_texts, train_labels = read_file(args.train_file_path)
     word2idx = build_dictionary(train_texts, vocab_size=args.vocab_size)

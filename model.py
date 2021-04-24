@@ -6,8 +6,7 @@ class RCNN(nn.Module):
     """
     Recurrent Convolutional Neural Networks for Text Classification (2015)
     """
-    def __init__(self, vocab_size, embedding_dim, hidden_size, hidden_size_linear, class_num, dropout,
-                 use_lexical=True,use_syntactic=True,use_semantic=True):
+    def __init__(self, vocab_size, embedding_dim, hidden_size, hidden_size_linear, class_num, dropout):
         super(RCNN, self).__init__()
         self.embedding = nn.Embedding(vocab_size, embedding_dim, padding_idx=0)
         self.lstm = nn.LSTM(embedding_dim, hidden_size, batch_first=True, bidirectional=True, dropout=dropout)
