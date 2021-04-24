@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from torchtext.vocab import GloVe
+import tensorflow as tf
 
 class RCNN(nn.Module):
     """
@@ -11,6 +12,18 @@ class RCNN(nn.Module):
                  use_lexical=True,use_syntactic=True,use_semantic=True):
         super(RCNN, self).__init__()
         self.embedding = nn.Embedding.from_pretrained(GloVe(name='840B', dim=embedding_dim)) if use_lexical else nn.Embedding(vocab_size, embedding_dim, padding_idx=0)
+        self.sem_embedding = None
+        self.syn_embedding = None
+        with tf.Session() as sess:
+            saver = tf.train.Saver()
+            saver.restore('./tools/syntactic_semantic_embeddings/embeddings/syntactic_embeddings')
+            self.syn_embedding = sess.run()
+            self.syn_embedding = tf.convert_to_tensor(self.syn_embedding)
+            saver.restore('./tools/syntactic_semantic_embeddings/embeddings/semantic_embeddings')
+            self.sem_embedding = sess.run()
+            self.sem_embedding = tf.convert_to_tensor(self.sem_embedding)
+        print('syn embedding size',self.syn_embedding.size())
+        print('sem embedding size',self.sem_embedding.size())
         self.lstm = nn.LSTM(embedding_dim, hidden_size, batch_first=True, bidirectional=True, dropout=dropout)
         self.W = nn.Linear(embedding_dim + 2*hidden_size, hidden_size_linear)
         self.tanh = nn.Tanh()
