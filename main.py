@@ -30,7 +30,10 @@ def main(args):
                  hidden_size=args.hidden_size,
                  hidden_size_linear=args.hidden_size_linear,
                  class_num=args.class_num,
-                 dropout=args.dropout).to(args.device)
+                 dropout=args.dropout,
+                 use_lexical=args.lexical,
+                 use_syntactic=args.syntactic,
+                 use_semantic=args.semantic).to(args.device)
 
     if args.n_gpu > 1:
         model = torch.nn.DataParallel(model, dim=0)
@@ -100,6 +103,9 @@ if __name__ == "__main__":
     # training
     parser.add_argument("--epochs", type=int, default=10)
     parser.add_argument("--lr", type=float, default=3e-4)
+    parser.add_argument("--lexical", type=float, default=True)
+    parser.add_argument("--syntactic", type=float, default=False)
+    parser.add_argument("--semantic", type=float, default=False)
     args = parser.parse_args()
 
     args.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")

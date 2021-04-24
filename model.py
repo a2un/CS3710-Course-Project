@@ -1,15 +1,16 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-
+from torchtext.vocab import GloVe
 
 class RCNN(nn.Module):
     """
     Recurrent Convolutional Neural Networks for Text Classification (2015)
     """
-    def __init__(self, vocab_size, embedding_dim, hidden_size, hidden_size_linear, class_num, dropout):
+    def __init__(self, vocab_size, embedding_dim, hidden_size, hidden_size_linear, class_num, dropout,
+                 use_lexical=True,use_syntactic=True,use_semantic=True):
         super(RCNN, self).__init__()
-        self.embedding = nn.Embedding(vocab_size, embedding_dim, padding_idx=0)
+        self.embedding = nn.Embedding.from_pretrained(GloVe(name='840B', dim=embedding_dim)) if use_lexical else nn.Embedding(vocab_size, embedding_dim, padding_idx=0)
         self.lstm = nn.LSTM(embedding_dim, hidden_size, batch_first=True, bidirectional=True, dropout=dropout)
         self.W = nn.Linear(embedding_dim + 2*hidden_size, hidden_size_linear)
         self.tanh = nn.Tanh()
