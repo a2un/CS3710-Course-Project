@@ -11,13 +11,11 @@ def build_dictionary(texts, vocab_size):
     for word in texts:
         counter.update(word)
 
-    words = [word for word, count in counter.most_common(vocab_size - len(SPECIAL_TOKENS))]
-    embeddings = None
-    embed_pretrained = GloVe(name='6B')
-    for word in words:
-        if embeddings:
-            embeddings = torch.cat((embeddings,embed_pretrained[word]),dim=1)
-    words = SPECIAL_TOKENS + words
+    words = [word for word, count in counter.most_common(vocab_size)]# - len(SPECIAL_TOKENS))]
+    # for word in words:
+    #     if embeddings:
+    #         embeddings = torch.cat((embeddings,embed_pretrained[word]),dim=1)
+    # words = SPECIAL_TOKENS + words
     word2idx = {word: idx for idx, word in enumerate(words)}
 
 
@@ -34,4 +32,4 @@ def build_dictionary(texts, vocab_size):
     # print('syn embedding size',syn_embedding.size())
     # print('sem embedding size',sem_embedding.size())
 
-    return word2idx, embeddings
+    return word2idx, GloVe(name='6B')
