@@ -91,6 +91,9 @@ if __name__ == "__main__":
     parser.add_argument("--num_val_data", type=int, default=10000)
     parser.add_argument("--max_len", type=int, default=64)
     parser.add_argument("--batch_size", type=int, default=64)
+    parser.add_argument("--lexical", type=bool, default=True)
+    parser.add_argument("--syntactic", type=bool, default=False)
+    parser.add_argument("--semantic", type=bool, default=False)
 
     # model
     parser.add_argument("--vocab_size", type=int, default=8000)
@@ -103,9 +106,6 @@ if __name__ == "__main__":
     # training
     parser.add_argument("--epochs", type=int, default=10)
     parser.add_argument("--lr", type=float, default=3e-4)
-    parser.add_argument("--lexical", type=float, default=True)
-    parser.add_argument("--syntactic", type=float, default=False)
-    parser.add_argument("--semantic", type=float, default=False)
     args = parser.parse_args()
 
     args.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
