@@ -4,20 +4,17 @@ import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 
 
-def build_dictionary(texts, vocab_size):
+def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     counter = Counter()
     SPECIAL_TOKENS = ['<PAD>', '<UNK>']
 
     for word in texts:
         counter.update(word)
 
-    words = [word for word, count in counter.most_common(vocab_size)]# - len(SPECIAL_TOKENS))]
-    # for word in words:
-    #     if embeddings:
-    #         embeddings = torch.cat((embeddings,embed_pretrained[word]),dim=1)
-    # words = SPECIAL_TOKENS + words
+    short = 0 if lexical else len(SPECIAL_TOKENS)
+    words = [word for word, count in counter.most_common(vocab_size) - short)]
+    words = words if lexical else SPECIAL_TOKENS + words
     word2idx = {word: idx for idx, word in enumerate(words)}
-
 
     # sem_embedding = None
     # syn_embedding = None
