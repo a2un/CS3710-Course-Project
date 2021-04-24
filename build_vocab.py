@@ -12,7 +12,7 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
         counter.update(word)
 
     short = 0 if lexical else len(SPECIAL_TOKENS)
-    words = [word for word, count in counter.most_common(vocab_size) - short)]
+    words = [word for word, count in counter.most_common(vocab_size) - short]
     words = words if lexical else SPECIAL_TOKENS + words
     word2idx = {word: idx for idx, word in enumerate(words)}
 
