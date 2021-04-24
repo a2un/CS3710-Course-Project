@@ -12,7 +12,8 @@ from model import RCNN
 from trainer import train, evaluate
 from utils import read_file
 from torchtext.vocab import GloVe
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 
 logging.basicConfig(format='%(asctime)s -  %(message)s', datefmt='%m/%d/%Y %H:%M:%S', level=logging.INFO)
 logger = logging.getLogger(__name__)
