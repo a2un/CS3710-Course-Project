@@ -11,10 +11,13 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     for word in texts:
         counter.update(word)
 
-    short = 0 if lexical else len(SPECIAL_TOKENS)
-    words = [word for word, count in counter.most_common(vocab_size) - short]
-    words = words if lexical else SPECIAL_TOKENS + words
+    words = [word for word, count in counter.most_common(vocab_size - len(SPECIAL_TOKENS) if not(lexical) else 0)]
+    # for word in words:
+    #     if embeddings:
+    #         embeddings = torch.cat((embeddings,embed_pretrained[word]),dim=1)
+    # words = SPECIAL_TOKENS + words
     word2idx = {word: idx for idx, word in enumerate(words)}
+
 
     # sem_embedding = None
     # syn_embedding = None
