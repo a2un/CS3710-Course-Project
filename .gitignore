@@ -1,2 +1,5 @@
 __pycache__
 model_saved
+wordgcnenv
+*.so
+.ipynb_checkpoints
