@@ -20,5 +20,6 @@ class CustomTextDataset(Dataset):
 def collate_fn(data, args, pad_idx=0):
     """Padding"""
     texts, labels = zip(*data)
-    texts = [s + [pad_idx] * (args.max_len - len(s)) if len(s) < args.max_len else s[:args.max_len] for s in texts]
+    if not(args.lexical):
+        texts = [s + [pad_idx] * (args.max_len - len(s)) if len(s) < args.max_len else s[:args.max_len] for s in texts]
     return torch.LongTensor(texts) if not(args.lexical) else texts, torch.LongTensor(labels)
