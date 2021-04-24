@@ -13,7 +13,7 @@ def build_dictionary(texts, vocab_size):
 
     words = [word for word, count in counter.most_common(vocab_size - len(SPECIAL_TOKENS))]
     embeddings = None
-    embed_pretrained = Glove(name='6B')
+    embed_pretrained = GloVe(name='6B')
     for word in words:
         if embeddings:
             embeddings = torch.cat((embeddings,embed_pretrained[word]),dim=1)
