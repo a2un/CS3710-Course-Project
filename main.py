@@ -11,9 +11,6 @@ from dataset import CustomTextDataset, collate_fn
 from model import RCNN
 from trainer import train, evaluate
 from utils import read_file
-from torchtext.vocab import GloVe
-import tensorflow.compat.v1 as tf
-tf.disable_v2_behavior()
 
 logging.basicConfig(format='%(asctime)s -  %(message)s', datefmt='%m/%d/%Y %H:%M:%S', level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -37,21 +34,8 @@ def main(args):
     if args.n_gpu > 1:
         model = torch.nn.DataParallel(model, dim=0)
 
-    # sem_embedding = None
-    # syn_embedding = None
-    # with tf.Session() as sess:
-    #     saver = tf.train.Saver()
-    #     saver.restore('./tools/syntactic_semantic_embeddings/embeddings/syntactic_embeddings')
-    #     syn_embedding = sess.run()
-    #     syn_embedding = tf.convert_to_tensor(syn_embedding)
-    #     saver.restore('./tools/syntactic_semantic_embeddings/embeddings/semantic_embeddings')
-    #     sem_embedding = sess.run()
-    #     sem_embedding = tf.convert_to_tensor(sem_embedding)
-    # print('syn embedding size',syn_embedding.size())
-    # print('sem embedding size',sem_embedding.size())
-
     train_texts, train_labels = read_file(args.train_file_path)
-    word2idx = build_dictionary(train_texts, vocab_size=args.vocab_size)
+    word2idx,embedding = build_dictionary(train_texts, vocab_size=args.vocab_size)
     print("word2idx",word2idx)
     logger.info('Dictionary Finished!')
 
