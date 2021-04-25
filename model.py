@@ -14,8 +14,9 @@ class RCNN(nn.Module):
         self.tanh = nn.Tanh()
         self.fc = nn.Linear(hidden_size_linear, class_num)
 
-    def forward(self, x):
+    def forward(self, x, args, x_embed=None):
         # x = |bs, seq_len|
+        if (args.lexical): self.embedding.weight.data.copy_(x_embed)
         x_emb = self.embedding(x)
         # x_emb = |bs, seq_len, embedding_dim|
         output, _ = self.lstm(x_emb)

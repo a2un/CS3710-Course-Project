@@ -14,9 +14,9 @@ def train(model, optimizer, train_dataloader, valid_dataloader, args):
     logger.info('Start Training!')
     for epoch in range(1, args.epochs+1):
         model.train()
-        for step, (x, y) in enumerate(train_dataloader):
+        for step, (x, embed, y) in enumerate(train_dataloader):
             x, y = x.to(args.device), y.to(args.device)
-            pred = model(x)
+            pred = model(x,args, embed)
             loss = F.cross_entropy(pred, y)
 
             optimizer.zero_grad()
@@ -45,9 +45,9 @@ def evaluate(model, valid_dataloader, args):
         model.eval()
         losses, correct = 0, 0
         y_hats, targets = [], []
-        for x, y in valid_dataloader:
+        for x, embed, y in valid_dataloader:
             x, y = x.to(args.device), y.to(args.device)
-            pred = model(x)
+            pred = model(x,args, embed)
             loss = F.cross_entropy(pred, y)
             losses += loss.item()
 
