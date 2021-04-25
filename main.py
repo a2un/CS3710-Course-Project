@@ -110,13 +110,13 @@ def main(args):
     plt.plot( 'x_values', 'avg_recall', data=plot_df, marker='', color='olive', linewidth=2, linestyle='dashed', label="toto")
     plt.plot( 'x_values', 'avg_f1_score', data=plot_df, marker='', color='olive', linewidth=2, linestyle='dashed', label="toto")
     plt.legend()
-    fname = 'lexical-semantic-syntactic.png' if lexical and semantic and syntactic \
-                            else 'semantic-syntactic.png' if semantic and syntactic \
-                            else 'lexical-semantic.png' if lexical and semantic \
-                            else 'lexical-syntactic.png'if lexical and syntactic \
-                            else 'lexical.png' if lexical \
-                            else 'syntactic.png' if syntactic \
-                            else 'semantic.png' if semantic \
+    fname = 'lexical-semantic-syntactic.png' if args.lexical and args.semantic and args.syntactic \
+                            else 'semantic-syntactic.png' if args.semantic and args.syntactic \
+                            else 'lexical-semantic.png' if args.lexical and args.semantic \
+                            else 'lexical-syntactic.png'if args.lexical and args.syntactic \
+                            else 'lexical.png' if args.lexical \
+                            else 'syntactic.png' if args.syntactic \
+                            else 'semantic.png' if args.semantic \
                             else 'plain.png'
     if not(path.exists('./images')):
         mkdir('./images')
