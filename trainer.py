@@ -9,12 +9,12 @@ logging.basicConfig(format='%(asctime)s -  %(message)s', datefmt='%m/%d/%Y %H:%M
 logger = logging.getLogger(__name__)
 
 
-def train(model, optimizer, train_dataloader, valid_dataloader, args):
+def train(model, optimizer, train_dataloader, valid_dataloader, embed, args):
     best_f1 = 0
     logger.info('Start Training!')
     for epoch in range(1, args.epochs+1):
         model.train()
-        for step, (x, embed, y) in enumerate(train_dataloader):
+        for step, (x, y) in enumerate(train_dataloader):
             x, y = x.to(args.device), y.to(args.device)
             pred = model(x,args, embed)
             loss = F.cross_entropy(pred, y)
@@ -40,12 +40,12 @@ def train(model, optimizer, train_dataloader, valid_dataloader, args):
             logger.info('Model saved!')
 
 
-def evaluate(model, valid_dataloader, args):
+def evaluate(model, valid_dataloader, embed, args):
     with torch.no_grad():
         model.eval()
         losses, correct = 0, 0
         y_hats, targets = [], []
-        for x, embed, y in valid_dataloader:
+        for x, y in valid_dataloader:
             x, y = x.to(args.device), y.to(args.device)
             pred = model(x,args, embed)
             loss = F.cross_entropy(pred, y)

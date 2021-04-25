@@ -35,11 +35,11 @@ def main(args):
         model = torch.nn.DataParallel(model, dim=0)
 
     train_texts, train_labels = read_file(args.train_file_path)
-    word2idx,embedding,syn_embed,sem_embed = build_dictionary(train_texts, args.vocab_size, args.lexical, args.syntactic, args.semantic)
+    word2idx,embedding = build_dictionary(train_texts, args.vocab_size, args.lexical, args.syntactic, args.semantic)
 
     logger.info('Dictionary Finished!')
 
-    full_dataset = CustomTextDataset(train_texts, train_labels, word2idx, embedding, args)
+    full_dataset = CustomTextDataset(train_texts, train_labels, word2idx, args)
     num_train_data = len(full_dataset) - args.num_val_data
     train_dataset, val_dataset = random_split(full_dataset, [num_train_data, args.num_val_data])
     train_dataloader = DataLoader(dataset=train_dataset,
@@ -53,20 +53,20 @@ def main(args):
                                   shuffle=True)
 
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr)
-    train(model, optimizer, train_dataloader, valid_dataloader, args)
+    train(model, optimizer, train_dataloader, valid_dataloader, embedding, args)
     logger.info('******************** Train Finished ********************')
 
     # Test
     if args.test_set:
         test_texts, test_labels = read_file(args.test_file_path)
-        test_dataset = CustomTextDataset(test_texts, test_labels, word2idx, embedding, args)
+        test_dataset = CustomTextDataset(test_texts, test_labels, word2idx, args)
         test_dataloader = DataLoader(dataset=test_dataset,
                                      collate_fn=lambda x: collate_fn(x, args),
                                      batch_size=args.batch_size,
                                      shuffle=True)
 
         model.load_state_dict(torch.load(os.path.join(args.model_save_path, "best.pt")))
-        _, accuracy, precision, recall, f1, cm = evaluate(model, test_dataloader, args)
+        _, accuracy, precision, recall, f1, cm = evaluate(model, test_dataloader, embedding, args)
         logger.info('-'*50)
         logger.info(f'|* TEST SET *| |ACC| {accuracy:>.4f} |PRECISION| {precision:>.4f} |RECALL| {recall:>.4f} |F1| {f1:>.4f}')
         logger.info('-'*50)

@@ -16,7 +16,8 @@ class RCNN(nn.Module):
 
     def forward(self, x, args, x_embed=None):
         # x = |bs, seq_len|
-        if (args.lexical): self.embedding.weight.data.copy_(x_embed)
+        if (args.lexical or args.semantic or args.syntactic) and not(x_embed == None):
+            self.embedding.weight.data.copy_(x_embed)
         x_emb = self.embedding(x)
         # x_emb = |bs, seq_len, embedding_dim|
         output, _ = self.lstm(x_emb)
