@@ -28,7 +28,7 @@ def collate_fn(data, args, pad_idx=0):
         for text_embed in embeds:
             for token_embed in text_embed:
                 if embed != None:
-                    embed = torch.cat((torch.transpose(embed,0,1),torch.transpose(token_embed,0,1)))
+                    embed = torch.cat((embed,token_embed))
                 else:
-                    embed = torch.transpose(token_embed,0,1)
+                    embed = token_embed
     return torch.LongTensor(texts), embed, torch.LongTensor(labels)
