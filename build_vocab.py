@@ -20,7 +20,7 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
 
 
     sem_embedding = tf.Variable(tf.random_normal(shape=[300]),'sem_embedding')
-    model_path = './tools/syntactic_semantic_embeddings/embeddings/'
+    model_path = './tools/syntactic_semantic_embeddings/WordGCN/embeddings/'
     # syn_embedding = None
     with tf.Session() as sess:
         saver = tf.train.import_meta_graph(model_path)#tf.train.Saver([sem_embedding])
