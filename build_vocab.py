@@ -23,11 +23,11 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     sem_embed_path = './tools/syntactic_semantic_embeddings/WordGCN/embeddings/semantic_embedding'
     # syn_embedding = None
     with tf.Session() as sess:
-        saver = tf.train.import_meta_graph(model_path)#tf.train.Saver([sem_embedding])
+        saver = tf.train.import_meta_graph(sem_embed_path)#tf.train.Saver([sem_embedding])
     #     saver.restore(sess,'./tools/syntactic_semantic_embeddings/embeddings/syntactic_embeddings')
     #     syn_embedding = sess.run()
     #     syn_embedding = tf.convert_to_tensor(syn_embedding)
-        saver.restore(sess,tf.train.latest_checkpoint(model_path))
+        saver.restore(sess,tf.train.latest_checkpoint(sem_embed_path))
         sem_embedding = sess.run('sem_embedding:0')
         sem_embedding = tf.convert_to_tensor(sem_embedding)
     # print('syn embedding size',syn_embedding.size())
