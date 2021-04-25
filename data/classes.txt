@@ -1,2 +1,5 @@
 Argumentative
 Non-Argumentative
+Major-Claim
+Premise
+Claim
