@@ -19,15 +19,15 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     word2idx = {word: idx for idx, word in enumerate(words)}
 
 
-    sem_embedding = None
-    # syn_embedding = None
+    sem_embedding = tf.Variable(tf.random_normal(shape=[300]),'sem_embedding')
+    # syn_embedding = tf.Variable(tf.random_normal(shape=[300]),'syn_embedding')
     with tf.Session() as sess:
-        saver = tf.train.Saver()
+        saver = tf.train.import_meta_graph('./tools/syntactic_semantic_embeddings/embeddings/semantic_embeddings')
     #     saver.restore('./tools/syntactic_semantic_embeddings/embeddings/syntactic_embeddings')
     #     syn_embedding = sess.run()
     #     syn_embedding = tf.convert_to_tensor(syn_embedding)
-        saver.restore('./tools/syntactic_semantic_embeddings/embeddings/semantic_embeddings')
-        sem_embedding = sess.run()
+        saver.restore(sess,tf.train.latest_checkpoint('./tools/syntactic_semantic_embeddings/embeddings/'))
+        sem_embedding = sess.run('sem_embedding:0')
         sem_embedding = tf.convert_to_tensor(sem_embedding)
     # print('syn embedding size',syn_embedding.size())
     print('sem embedding size',sem_embedding.size())
