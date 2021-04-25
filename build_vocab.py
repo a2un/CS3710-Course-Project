@@ -20,7 +20,7 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     embedding = None
     for word in words:
         if not(embedding == None):
-            embedding = torch.cat((embeddings,lex_embed[word]),dim=1)
+            embedding = torch.cat((embedding,lex_embed[word]),dim=1)
         else:
             embedding = lex_embed[word]
 
