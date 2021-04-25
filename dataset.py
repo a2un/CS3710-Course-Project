@@ -22,4 +22,4 @@ def collate_fn(data, args, pad_idx=0):
     texts, labels = zip(*data)
     if not(args.lexical):
         texts = [s + [pad_idx] * (args.max_len - len(s)) if len(s) < args.max_len else s[:args.max_len] for s in texts]
-    return torch.LongTensor(texts) if not(args.lexical) else texts, torch.LongTensor(labels)
+    return torch.LongTensor(texts) if not(args.lexical) else torch.cat(texts), torch.LongTensor(labels)
