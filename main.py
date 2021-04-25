@@ -11,6 +11,9 @@ from dataset import CustomTextDataset, collate_fn
 from model import RCNN
 from trainer import train, evaluate
 from utils import read_file
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from os import path
 
 logging.basicConfig(format='%(asctime)s -  %(message)s', datefmt='%m/%d/%Y %H:%M:%S', level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -22,59 +25,84 @@ def set_seed(args):
     if args.n_gpu > 0:
         torch.cuda.manual_seed_all(args.seed)
 
+def setup_data():
+    dest_path = './data'
+    df = pd.read_csv(path.join(dest_path,'all_data.csv'))
+
+    train, test = train_test_split(df, test_size=0.2,random_state=42)
+
+    train.to_csv(open(path.join(dest_path,'train.csv'),'w+',encoding='utf-8',errors='ignore'),index=False)
+    test.to_csv(open(path.join(dest_path,'test.csv'),'w+',encoding='utf-8',errors='ignore'),index=False)
 
 def main(args):
-    model = RCNN(vocab_size=args.vocab_size,
-                 embedding_dim=args.embedding_dim,
-                 hidden_size=args.hidden_size,
-                 hidden_size_linear=args.hidden_size_linear,
-                 class_num=args.class_num,
-                 dropout=args.dropout).to(args.device)
+    avg_acc = 0.0
+    avg_f1_score = 0.0
+    avg_prec = 0.0
+    avg_recall = 0.0
+    for i in range(10):
+        setup_data()
+        model = RCNN(vocab_size=args.vocab_size,
+                    embedding_dim=args.embedding_dim,
+                    hidden_size=args.hidden_size,
+                    hidden_size_linear=args.hidden_size_linear,
+                    class_num=args.class_num,
+                    dropout=args.dropout).to(args.device)
 
-    if args.n_gpu > 1:
-        model = torch.nn.DataParallel(model, dim=0)
+        if args.n_gpu > 1:
+            model = torch.nn.DataParallel(model, dim=0)
 
-    train_texts, train_labels = read_file(args.train_file_path)
-    word2idx,embedding = build_dictionary(train_texts, args.vocab_size, args.lexical, args.syntactic, args.semantic)
+        train_texts, train_labels = read_file(args.train_file_path)
+        word2idx,embedding = build_dictionary(train_texts, args.vocab_size, args.lexical, args.syntactic, args.semantic)
 
-    logger.info('Dictionary Finished!')
+        logger.info('Dictionary Finished!')
 
-    full_dataset = CustomTextDataset(train_texts, train_labels, word2idx, args)
-    num_train_data = len(full_dataset) - args.num_val_data
-    train_dataset, val_dataset = random_split(full_dataset, [num_train_data, args.num_val_data])
-    train_dataloader = DataLoader(dataset=train_dataset,
-                                  collate_fn=lambda x: collate_fn(x, args),
-                                  batch_size=args.batch_size,
-                                  shuffle=True)
+        full_dataset = CustomTextDataset(train_texts, train_labels, word2idx, args)
+        num_train_data = len(full_dataset) - args.num_val_data
+        train_dataset, val_dataset = random_split(full_dataset, [num_train_data, args.num_val_data])
+        train_dataloader = DataLoader(dataset=train_dataset,
+                                    collate_fn=lambda x: collate_fn(x, args),
+                                    batch_size=args.batch_size,
+                                    shuffle=True)
 
-    valid_dataloader = DataLoader(dataset=val_dataset,
-                                  collate_fn=lambda x: collate_fn(x, args),
-                                  batch_size=args.batch_size,
-                                  shuffle=True)
+        valid_dataloader = DataLoader(dataset=val_dataset,
+                                    collate_fn=lambda x: collate_fn(x, args),
+                                    batch_size=args.batch_size,
+                                    shuffle=True)
 
-    optimizer = torch.optim.Adam(model.parameters(), lr=args.lr)
-    train(model, optimizer, train_dataloader, valid_dataloader, embedding, args)
-    logger.info('******************** Train Finished ********************')
+        optimizer = torch.optim.Adam(model.parameters(), lr=args.lr)
+        train(model, optimizer, train_dataloader, valid_dataloader, embedding, args)
+        logger.info('******************** Train Finished ********************')
 
-    # Test
-    if args.test_set:
-        test_texts, test_labels = read_file(args.test_file_path)
-        test_dataset = CustomTextDataset(test_texts, test_labels, word2idx, args)
-        test_dataloader = DataLoader(dataset=test_dataset,
-                                     collate_fn=lambda x: collate_fn(x, args),
-                                     batch_size=args.batch_size,
-                                     shuffle=True)
+        # Test
+        if args.test_set:
+            test_texts, test_labels = read_file(args.test_file_path)
+            test_dataset = CustomTextDataset(test_texts, test_labels, word2idx, args)
+            test_dataloader = DataLoader(dataset=test_dataset,
+                                        collate_fn=lambda x: collate_fn(x, args),
+                                        batch_size=args.batch_size,
+                                        shuffle=True)
 
-        model.load_state_dict(torch.load(os.path.join(args.model_save_path, "best.pt")))
-        _, accuracy, precision, recall, f1, cm = evaluate(model, test_dataloader, embedding, args)
-        logger.info('-'*50)
-        logger.info(f'|* TEST SET *| |ACC| {accuracy:>.4f} |PRECISION| {precision:>.4f} |RECALL| {recall:>.4f} |F1| {f1:>.4f}')
-        logger.info('-'*50)
-        logger.info('---------------- CONFUSION MATRIX ----------------')
-        for i in range(len(cm)):
-            logger.info(cm[i])
+            model.load_state_dict(torch.load(os.path.join(args.model_save_path, "best.pt")))
+            _, accuracy, precision, recall, f1, cm = evaluate(model, test_dataloader, embedding, args)
+            logger.info('-'*50)
+            logger.info(f'|* TEST SET *| |ACC| {accuracy:>.4f} |PRECISION| {precision:>.4f} |RECALL| {recall:>.4f} |F1| {f1:>.4f}')
+            logger.info('-'*50)
+            logger.info('---------------- CONFUSION MATRIX ----------------')
+            for i in range(len(cm)):
+                logger.info(cm[i])
+            logger.info('--------------------------------------------------')
+            avg_acc += accuracy
+            avg_prec += precision
+            avg_recall += recall
+            avg_f1_score += f1
+        
+        avg_acc /= 10
+        avg_prec /= 10
+        avg_recall /= 10
+        avg_f1_score /= 10
         logger.info('--------------------------------------------------')
-
+        logger.info(f'|* TEST SET *| |Avg ACC| {avg_acc:>.4f} |Avg PRECISION| {avg_prec:>.4f} |Avg RECALL| {avg_recall:>.4f} |Avg F1| {avg_f1_score:>.4f}')
+        logger.info('--------------------------------------------------')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
