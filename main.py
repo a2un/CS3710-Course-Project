@@ -59,7 +59,7 @@ def main(args):
     # Test
     if args.test_set:
         test_texts, test_labels = read_file(args.test_file_path)
-        test_dataset = CustomTextDataset(test_texts, test_labels, word2idx)
+        test_dataset = CustomTextDataset(test_texts, test_labels, word2idx,args)
         test_dataloader = DataLoader(dataset=test_dataset,
                                      collate_fn=lambda x: collate_fn(x, args),
                                      batch_size=args.batch_size,
