@@ -28,4 +28,6 @@ def collate_fn(data, args, pad_idx=0):
             for token in text:
                 if embed:
                     embed = torch.cat((embed,token))
+                else:
+                    embed = token
     return torch.LongTensor(texts) if not(args.lexical) else embed, torch.LongTensor(labels)
