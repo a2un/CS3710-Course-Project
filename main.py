@@ -14,6 +14,7 @@ from utils import read_file
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from os import path
+import matplotlib.pyplot as plt
 
 logging.basicConfig(format='%(asctime)s -  %(message)s', datefmt='%m/%d/%Y %H:%M:%S', level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -35,10 +36,10 @@ def setup_data():
     test.to_csv(open(path.join(dest_path,'test.csv'),'w+',encoding='utf-8',errors='ignore'),index=False)
 
 def main(args):
-    avg_acc = 0.0
-    avg_f1_score = 0.0
-    avg_prec = 0.0
-    avg_recall = 0.0
+    acc_list = []
+    f1_score_list = []
+    prec_list = []
+    recall_list = []
     for i in range(10):
         setup_data()
         model = RCNN(vocab_size=args.vocab_size,
@@ -91,18 +92,25 @@ def main(args):
             for i in range(len(cm)):
                 logger.info(cm[i])
             logger.info('--------------------------------------------------')
-            avg_acc += accuracy
-            avg_prec += precision
-            avg_recall += recall
-            avg_f1_score += f1
+            acc_list.append(accuracy)
+            prec_list.append(precision)
+            recall_list.append(recall)
+            f1_score_list.append(f1)
         
-    avg_acc /= 10
-    avg_prec /= 10
-    avg_recall /= 10
-    avg_f1_score /= 10
+    avg_acc = sum(acc_list)/len(acc_list)
+    avg_prec = sum(prec_list)/len(prec_list)
+    avg_recall = sum(recall_list)/len(recall_list)
+    avg_f1_score = sum(f1_score_list)/len(f1_score_list)
     logger.info('--------------------------------------------------')
     logger.info(f'|* TEST SET *| |Avg ACC| {avg_acc:>.4f} |Avg PRECISION| {avg_prec:>.4f} |Avg RECALL| {avg_recall:>.4f} |Avg F1| {avg_f1_score:>.4f}')
     logger.info('--------------------------------------------------')
+    plot_df=pd.DataFrame({'x_values': range(10), 'avg_acc': acc_list, 'avg_prec': prec_list, 'avg_recall': recall_list, 'avg_f1_score': f1_score_list })
+    plt.plot( 'x_values', 'avg_acc', data=df, marker='o', markerfacecolor='blue', markersize=12, color='skyblue', linewidth=4)
+    plt.plot( 'x_values', 'avg_prec', data=df, marker='', color='olive', linewidth=2)
+    plt.plot( 'x_values', 'avg_recall', data=df, marker='', color='olive', linewidth=2, linestyle='dashed', label="toto")
+    plt.plot( 'x_values', 'avg_f1_score', data=df, marker='', color='olive', linewidth=2, linestyle='dashed', label="toto")
+    plt.legend()
+    plt.show()
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
