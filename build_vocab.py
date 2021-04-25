@@ -1,4 +1,5 @@
 from collections import Counter
+import torch
 from torchtext.vocab import GloVe
 import numpy as np
 
