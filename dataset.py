@@ -5,7 +5,7 @@ from torch.utils.data import Dataset
 class CustomTextDataset(Dataset):
     def __init__(self, texts, labels, dictionary):
         # Unknown Token is index 1 (<UNK>)
-        self.x = [[dictionary[token] for token in token_list] for token_list in texts]
+        self.x = [[dictionary.get(token,1) for token in token_list] for token_list in texts]
         self.y = labels
 
     def __len__(self):

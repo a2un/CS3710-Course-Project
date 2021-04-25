@@ -15,7 +15,7 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     # for word in words:
     #     if embeddings:
     #         embeddings = torch.cat((embeddings,embed_pretrained[word]),dim=1)
-    # words = SPECIAL_TOKENS + words
+    words = words if lexical else SPECIAL_TOKENS + words
     word2idx = {word: idx for idx, word in enumerate(words)}
 
 
