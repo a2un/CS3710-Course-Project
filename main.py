@@ -107,8 +107,8 @@ def main(args):
     plot_df=pd.DataFrame({'x_values': range(10), 'avg_acc': acc_list, 'avg_prec': prec_list, 'avg_recall': recall_list, 'avg_f1_score': f1_score_list })
     plt.plot( 'x_values', 'avg_acc', data=plot_df, marker='o', markerfacecolor='blue', markersize=12, color='skyblue', linewidth=4)
     plt.plot( 'x_values', 'avg_prec', data=plot_df, marker='', color='olive', linewidth=2)
-    plt.plot( 'x_values', 'avg_recall', data=plot_df, marker='', color='olive', linewidth=2, linestyle='dashed', label="toto")
-    plt.plot( 'x_values', 'avg_f1_score', data=plot_df, marker='', color='olive', linewidth=2, linestyle='dashed', label="toto")
+    plt.plot( 'x_values', 'avg_recall', data=plot_df, marker='', color='olive', linewidth=2, linestyle='dashed')
+    plt.plot( 'x_values', 'avg_f1_score', data=plot_df, marker='', color='olive', linewidth=2, linestyle='dashed')
     plt.legend()
     fname = 'lexical-semantic-syntactic.png' if args.lexical and args.semantic and args.syntactic \
                             else 'semantic-syntactic.png' if args.semantic and args.syntactic \
