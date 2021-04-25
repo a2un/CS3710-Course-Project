@@ -20,9 +20,9 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     embedding = None
     for word in words:
         if not(embedding == None):
-            embedding = torch.cat((embedding,lex_embed[word]),dim=1)
+            embedding = torch.cat((embedding,lex_embed[word].unsqueeze(0)),dim=1)
         else:
-            embedding = lex_embed[word]
+            embedding = lex_embed[word].unsqueeze(0)
 
     words = SPECIAL_TOKENS + words
     word2idx = {word: idx for idx, word in enumerate(words)}
