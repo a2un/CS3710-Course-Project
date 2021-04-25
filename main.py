@@ -39,7 +39,7 @@ def main(args):
     print("word2idx",word2idx)
     logger.info('Dictionary Finished!')
 
-    full_dataset = CustomTextDataset(train_texts, train_labels, word2idx,args, embedding)
+    full_dataset = CustomTextDataset(train_texts, train_labels, word2idx, embedding, args)
     num_train_data = len(full_dataset) - args.num_val_data
     train_dataset, val_dataset = random_split(full_dataset, [num_train_data, args.num_val_data])
     train_dataloader = DataLoader(dataset=train_dataset,
