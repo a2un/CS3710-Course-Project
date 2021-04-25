@@ -88,7 +88,7 @@ if __name__ == "__main__":
     parser.add_argument("--num_val_data", type=int, default=10000)
     parser.add_argument("--max_len", type=int, default=64)
     parser.add_argument("--batch_size", type=int, default=64)
-    parser.add_argument("--lexical", dest='lexical', action='store_true',default=True)
+    parser.add_argument("--lexical", dest='lexical', action='store_true',default=False)
     parser.add_argument("--syntactic", dest='syntactic', action='store_true', default=False)
     parser.add_argument("--semantic", dest='semantic', action='store_true', default=False)
 
