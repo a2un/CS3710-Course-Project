@@ -26,7 +26,7 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     #     saver.restore('./tools/syntactic_semantic_embeddings/embeddings/syntactic_embeddings')
     #     syn_embedding = sess.run()
     #     syn_embedding = tf.convert_to_tensor(syn_embedding)
-        saver.restore('./tools/syntactic_semantic_embeddings/embeddings/semantic_embeddings')
+        saver.restore(tf.train.latest_checkpoint('./tools/syntactic_semantic_embeddings/embeddings/'))
         sem_embedding = sess.run('sem_embedding:0')
         sem_embedding = tf.convert_to_tensor(sem_embedding)
     # print('syn embedding size',syn_embedding.size())
