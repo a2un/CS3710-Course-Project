@@ -28,4 +28,4 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     print('syn embedding size',syn_embedding.size())
     print('sem embedding size',sem_embedding.size())
 
-    return word2idx, GloVe(name='6B'), syn_embed, sem_embed
+    return word2idx, GloVe(name='6B'), syn_embedding, sem_embedding
