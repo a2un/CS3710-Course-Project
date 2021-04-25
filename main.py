@@ -96,13 +96,13 @@ def main(args):
             avg_recall += recall
             avg_f1_score += f1
         
-        avg_acc /= 10
-        avg_prec /= 10
-        avg_recall /= 10
-        avg_f1_score /= 10
-        logger.info('--------------------------------------------------')
-        logger.info(f'|* TEST SET *| |Avg ACC| {avg_acc:>.4f} |Avg PRECISION| {avg_prec:>.4f} |Avg RECALL| {avg_recall:>.4f} |Avg F1| {avg_f1_score:>.4f}')
-        logger.info('--------------------------------------------------')
+    avg_acc /= 10
+    avg_prec /= 10
+    avg_recall /= 10
+    avg_f1_score /= 10
+    logger.info('--------------------------------------------------')
+    logger.info(f'|* TEST SET *| |Avg ACC| {avg_acc:>.4f} |Avg PRECISION| {avg_prec:>.4f} |Avg RECALL| {avg_recall:>.4f} |Avg F1| {avg_f1_score:>.4f}')
+    logger.info('--------------------------------------------------')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
