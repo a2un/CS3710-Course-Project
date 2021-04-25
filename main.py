@@ -35,7 +35,7 @@ def main(args):
         model = torch.nn.DataParallel(model, dim=0)
 
     train_texts, train_labels = read_file(args.train_file_path)
-    word2idx,embedding = build_dictionary(train_texts, args.vocab_size, args.lexical, args.syntactic, args.semantic)
+    word2idx,embedding,syn_embed,sem_embed = build_dictionary(train_texts, args.vocab_size, args.lexical, args.syntactic, args.semantic)
     print("word2idx",word2idx)
     logger.info('Dictionary Finished!')
 
