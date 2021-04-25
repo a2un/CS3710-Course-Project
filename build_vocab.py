@@ -14,15 +14,16 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
 
     for word in texts:
         counter.update(word)
-
+    
+    words = [word for word, count in counter.most_common(vocab_size - len(SPECIAL_TOKENS))]
+    
     embedding = None
     for word in words:
         if not(embedding == None):
             embedding = torch.cat((embeddings,lex_embed[word]),dim=1)
         else:
             embedding = lex_embed[word]
-    
-    words = [word for word, count in counter.most_common(vocab_size - len(SPECIAL_TOKENS))]
+
     words = SPECIAL_TOKENS + words
     word2idx = {word: idx for idx, word in enumerate(words)}
 
