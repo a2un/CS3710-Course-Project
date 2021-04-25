@@ -2,6 +2,7 @@ from collections import Counter
 import torch
 from torchtext.vocab import GloVe
 import numpy as np
+import re
 
 
 def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
@@ -21,8 +22,8 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     words = words if lexical else SPECIAL_TOKENS + words
     word2idx = {word: idx for idx, word in enumerate(words)}
 
-    sem_embed = torch.from_numpy(np.array([[float(eval(score,{},{})) for score in line.split()[1:] if bool(re.match(r'^-?\d+(\.\d+)?$', score)] for line in open(sem_embed_path,'r').readlines()]))
-    syn_embed = torch.from_numpy(np.array([[float(eval(score,{},{})) for score in line.split()[1:] if bool(re.match(r'^-?\d+(\.\d+)?$', score)] for line in open(sem_embed_path,'r').readlines()]))
+    sem_embed = torch.from_numpy(np.array([[float(eval(score,{},{})) for score in line.split()[1:] if bool(re.match(r'^-?\d+(\.\d+)?$', score))] for line in open(sem_embed_path,'r').readlines()]))
+    syn_embed = torch.from_numpy(np.array([[float(eval(score,{},{})) for score in line.split()[1:] if bool(re.match(r'^-?\d+(\.\d+)?$', score))] for line in open(sem_embed_path,'r').readlines()]))
 
     print('syn embedding size',syn_embedding.size())
     print('sem embedding size',sem_embedding.size())
