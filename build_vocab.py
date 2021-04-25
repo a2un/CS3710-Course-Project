@@ -16,17 +16,15 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
         counter.update(word)
     
     words = [word for word, count in counter.most_common(vocab_size - len(SPECIAL_TOKENS))]
+    words = SPECIAL_TOKENS + words
+    word2idx = {word: idx for idx, word in enumerate(words)}
     
     embedding = None
     for word in words:
         if not(embedding == None):
-            embedding = torch.cat((embedding,lex_embed[word].unsqueeze(0)),dim=1)
+            embedding = torch.cat((embedding,lex_embed[word].unsqueeze(0)))
         else:
             embedding = lex_embed[word].unsqueeze(0)
-
-    words = SPECIAL_TOKENS + words
-    word2idx = {word: idx for idx, word in enumerate(words)}
-
     sem_embedding = torch.from_numpy(np.array([[float(eval(score,{},{})) if bool(re.match(r'^-?\d+(\.\d+)?$', score)) else 0 for score in line.split()[1:]] for line in open(sem_embed_path,'r').readlines()[:vocab_size]]))
     syn_embedding = torch.from_numpy(np.array([[float(eval(score,{},{})) if bool(re.match(r'^-?\d+(\.\d+)?$', score)) else 0 for score in line.split()[1:]] for line in open(syn_embed_path,'r').readlines()[:vocab_size]]))
 
