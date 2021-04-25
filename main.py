@@ -13,7 +13,7 @@ from trainer import train, evaluate
 from utils import read_file
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from os import path
+from os import path,mkdir
 import matplotlib.pyplot as plt
 
 logging.basicConfig(format='%(asctime)s -  %(message)s', datefmt='%m/%d/%Y %H:%M:%S', level=logging.INFO)
@@ -110,7 +110,17 @@ def main(args):
     plt.plot( 'x_values', 'avg_recall', data=plot_df, marker='', color='olive', linewidth=2, linestyle='dashed', label="toto")
     plt.plot( 'x_values', 'avg_f1_score', data=plot_df, marker='', color='olive', linewidth=2, linestyle='dashed', label="toto")
     plt.legend()
-    plt.show()
+    fname = 'lexical-semantic-syntactic.png' if lexical and semantic and syntactic \
+                            else 'semantic-syntactic.png' if semantic and syntactic \
+                            else 'lexical-semantic.png' if lexical and semantic \
+                            else 'lexical-syntactic.png'if lexical and syntactic \
+                            else 'lexical.png' if lexical \
+                            else 'syntactic.png' if syntactic \
+                            else 'semantic.png' if semantic \
+                            else 'plain.png'
+    if not(path.exists('./images')):
+        mkdir('./images')
+    plt.savefig(path.join('./images',fname))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
