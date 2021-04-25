@@ -26,7 +26,7 @@ def collate_fn(data, args, pad_idx=0):
         embed = None
         for text in texts:
             for token in text:
-                if embed:
+                if embed != None:
                     embed = torch.cat((embed,token))
                 else:
                     embed = token
