@@ -26,7 +26,7 @@ def train(model, optimizer, train_dataloader, valid_dataloader, embed, args):
             if (step+1) % 200 == 0:
                 logger.info(f'|EPOCHS| {epoch:>}/{args.epochs} |STEP| {step+1:>4}/{len(train_dataloader)} |LOSS| {loss.item():>.4f}')
 
-        avg_loss, accuracy, _, _, f1, _ = evaluate(model, valid_dataloader, args)
+        avg_loss, accuracy, _, _, f1, _ = evaluate(model, valid_dataloader, embed, args)
         logger.info('-'*50)
         logger.info(f'|* VALID SET *| |VAL LOSS| {avg_loss:>.4f} |ACC| {accuracy:>.4f} |F1| {f1:>.4f}')
         logger.info('-'*50)
