@@ -18,7 +18,7 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     words = [word for word, count in counter.most_common(vocab_size - len(SPECIAL_TOKENS))]
     words = SPECIAL_TOKENS + words
     word2idx = {word: idx for idx, word in enumerate(words)}
-    
+
     embedding = None
     for word in words:
         if not(embedding == None):
@@ -33,9 +33,9 @@ def build_dictionary(texts, vocab_size, lexical, syntactic, semantic):
     print('sem embedding size',sem_embedding.size())
 
     tpl = (embedding + syn_embedding + sem_embedding) if lexical and semantic and syntactic \
-                            else syntactic_embedding + semantic_embedding if semantic and syntactic \
-                            else (embedding + semantic_embedding) if lexical and semantic \
-                            else (embedding + syntactic_embedding) if lexical and syntactic \
+                            else syn_embedding + sem_embedding if semantic and syntactic \
+                            else (embedding + sem_embedding) if lexical and semantic \
+                            else (embedding + syn_embedding) if lexical and syntactic \
                             else embedding if lexical \
                             else syn_embedding if syntactic \
                             else sem_embedding if semantic \
