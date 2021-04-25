@@ -23,5 +23,9 @@ def collate_fn(data, args, pad_idx=0):
     if not(args.lexical):
         texts = [s + [pad_idx] * (args.max_len - len(s)) if len(s) < args.max_len else s[:args.max_len] for s in texts]
     else:
-        texts = [text for text in texts]
-    return torch.LongTensor(texts) if not(args.lexical) else torch.cat(texts), torch.LongTensor(labels)
+        embed = None
+        for text in texts:
+            for token in text:
+                if embed:
+                    embed = torch.cat((embed,token))
+    return torch.LongTensor(texts) if not(args.lexical) else embed, torch.LongTensor(labels)
