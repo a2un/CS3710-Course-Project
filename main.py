@@ -92,7 +92,7 @@ def main(args):
             for i in range(len(cm)):
                 logger.info(cm[i])
             logger.info('--------------------------------------------------')
-            acc_list.append(accuracy)
+            acc_list.append(accuracy/100)
             prec_list.append(precision)
             recall_list.append(recall)
             f1_score_list.append(f1)
